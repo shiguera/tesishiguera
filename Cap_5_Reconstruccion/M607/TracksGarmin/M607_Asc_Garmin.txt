@@ -1,0 +1,59 @@
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+RoadGRUB (Road Geometry Reconstruction Utility Basic) 
+RECONSTRUCCIÓN DE LA GEOMETRÍA DEL PERFIL LONGITUDINAL 
+------------------------------------------------------------------------------
+M-607 Ascendente - GPS Garmin - Traza completa
+Tramo : Traza completa
+------------------------------------------------------------------------------
+DATOS DE LA TRAZA:
+Número de puntos     : 654
+Longitud         (m) : 12285.47
+Separación media (m) : 18.81
+Altitud máxima   (m) : 946.91
+Altitud media    (m) : 903.76
+Altitud mínima   (m) : 852.9
+Pendiente media      : -0.0008
+K global (m)         : 108.67595967
+------------------------------------------------------------------------------
+PARÁMETROS USADOS EN LA RECONSTRUCCIÓN:
+Pendiente límite              : 1.5E-5
+Kv límite                     : 66667
+Rectas Interpolación (Puntos) : 14
+Rectas Interpolación (m)      : 244.58
+------------------------------------------------------------------------------
+RESULTADO: ERRORES
+Error Cuadrático Medio ECM              : 5.949649
+Valor absoluto del Error (media)  (m)   : 2.003247
+Valor absoluto del Error (máximo) (m)   : 7.89948
+Valor absoluto del Error (varianza)     : 1.94576
+Valor absoluto del Error (Desv. Típica) : 1.394905
+------------------------------------------------------------------------------
+RESULTADO: PERFIL LONGITUDINAL RECONSTRUIDO
+Número Total de alineaciones       : 13
+    Grades                         : 5
+    Vertical curves                : 8
+    Cuasi grades                   : 0
+    Short alignments  (L<50.00 m)  : 0
+    Two consecutive grades         : 0
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+
+          SE           ZE           PE            L          K
+----------------------------------------------------------------------------------
+    0,000000   932,390000    -0,039709  1059,990802          - GRADE 
+ 1059,990802   890,298823    -0,039709   273,660825     7661,2 VERTICAL CURVE 
+ 1333,651627   884,319628    -0,003989  1108,785208          - GRADE 
+ 2442,436835   879,896849    -0,003989   348,261930    -8998,5 VERTICAL CURVE 
+ 2790,698765   871,768438    -0,042691  1215,164788    14851,1 VERTICAL CURVE 
+ 4005,863553   869,606296     0,039132   576,879063   -16599,9 VERTICAL CURVE 
+ 4582,742616   882,157105     0,004380  3369,038935          - GRADE 
+ 7951,781551   896,914728     0,004380   187,701516    13813,4 VERTICAL CURVE 
+ 8139,483067   899,012210     0,017969   300,205062     9110,3 VERTICAL CURVE 
+ 8439,688129   909,352744     0,050921   531,112412   -12321,7 VERTICAL CURVE 
+ 8970,800541   924,951022     0,007817  2194,568761          - GRADE 
+11165,369302   942,106164     0,007817   655,364885   -18288,7 VERTICAL CURVE 
+11820,734187   935,486898    -0,028017   464,738647          - GRADE 
+----------------------------------------------------------------------------------
+SE=Abscisa entrada; ZE=Cota entrada; PE=Pendiente entrada; L=Longitud; K=Parámetro 
+

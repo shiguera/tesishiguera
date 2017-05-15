@@ -1,0 +1,2359 @@
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2016-11-11T12:22:03Z"/>
+
+  <node id="302774795" lat="31.7866549" lon="34.6464231">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="302774796" lat="31.7895167" lon="34.6404601">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="302774798" lat="31.7923922" lon="34.6345632"/>
+  <node id="302775162" lat="31.7928513" lon="34.6344698"/>
+  <node id="302775163" lat="31.7930084" lon="34.6340542"/>
+  <node id="302775164" lat="31.7929541" lon="34.6338130"/>
+  <node id="302775166" lat="31.7928308" lon="34.6336429"/>
+  <node id="302775167" lat="31.7926590" lon="34.6335474"/>
+  <node id="302775168" lat="31.7923878" lon="34.6335712"/>
+  <node id="302775170" lat="31.7923126" lon="34.6336165"/>
+  <node id="302775171" lat="31.7921470" lon="34.6338362"/>
+  <node id="302775172" lat="31.7921052" lon="34.6341229"/>
+  <node id="302775173" lat="31.7921528" lon="34.6343100"/>
+  <node id="302775175" lat="31.7926533" lon="34.6345864"/>
+  <node id="388793531" lat="31.7846696" lon="34.6505802">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="410603523" lat="31.7785302" lon="34.6632904">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="428222606" lat="31.7968595" lon="34.6323842"/>
+  <node id="452420616" lat="31.7851057" lon="34.6582668"/>
+  <node id="520408818" lat="31.7760535" lon="34.6616503"/>
+  <node id="520408905" lat="31.7756124" lon="34.6616098"/>
+  <node id="520522604" lat="31.7882122" lon="34.6433385"/>
+  <node id="520522607" lat="31.7882799" lon="34.6433433"/>
+  <node id="520522610" lat="31.7883236" lon="34.6433378"/>
+  <node id="520522614" lat="31.7883663" lon="34.6433258"/>
+  <node id="520522618" lat="31.7884176" lon="34.6433015"/>
+  <node id="520522622" lat="31.7885068" lon="34.6432256"/>
+  <node id="520522625" lat="31.7885423" lon="34.6431758">
+    <tag k="amenity" v="post_box"/>
+  </node>
+  <node id="520522630" lat="31.7885706" lon="34.6431200"/>
+  <node id="520522634" lat="31.7886022" lon="34.6429959"/>
+  <node id="520522638" lat="31.7885689" lon="34.6427660"/>
+  <node id="520522640" lat="31.7885146" lon="34.6426739"/>
+  <node id="520522644" lat="31.7883628" lon="34.6425628"/>
+  <node id="520522654" lat="31.7881291" lon="34.6425802"/>
+  <node id="520522657" lat="31.7880716" lon="34.6426185"/>
+  <node id="520522660" lat="31.7880214" lon="34.6426691"/>
+  <node id="520522664" lat="31.7879506" lon="34.6427995"/>
+  <node id="520522673" lat="31.7879326" lon="34.6428743"/>
+  <node id="520522674" lat="31.7879273" lon="34.6429518"/>
+  <node id="520523006" lat="31.7881467" lon="34.6433180"/>
+  <node id="520543885" lat="31.7879883" lon="34.6431733"/>
+  <node id="520543890" lat="31.7880325" lon="34.6432337"/>
+  <node id="520543894" lat="31.7880860" lon="34.6432826"/>
+  <node id="520545551" lat="31.7879349" lon="34.6430291"/>
+  <node id="520547759" lat="31.7884699" lon="34.6426264"/>
+  <node id="520547763" lat="31.7884188" lon="34.6425890"/>
+  <node id="520548298" lat="31.7884648" lon="34.6432679"/>
+  <node id="520548643" lat="31.7885907" lon="34.6430595"/>
+  <node id="520548929" lat="31.7879806" lon="34.6427302"/>
+  <node id="817929560" lat="31.7775506" lon="34.6626198"/>
+  <node id="817929585" lat="31.7857441" lon="34.6570540"/>
+  <node id="817929592" lat="31.7857091" lon="34.6568752"/>
+  <node id="817929594" lat="31.7855461" lon="34.6569221"/>
+  <node id="817929597" lat="31.7855844" lon="34.6570990"/>
+  <node id="817929598" lat="31.7850003" lon="34.6583494"/>
+  <node id="817929604" lat="31.7851644" lon="34.6584101"/>
+  <node id="817929606" lat="31.7850471" lon="34.6584577"/>
+  <node id="817936194" lat="31.7837004" lon="34.6557877"/>
+  <node id="817936195" lat="31.7840495" lon="34.6549964"/>
+  <node id="817936199" lat="31.7798299" lon="34.6607532">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="817936205" lat="31.7811963" lon="34.6614619"/>
+  <node id="817936206" lat="31.7826923" lon="34.6576999"/>
+  <node id="817936207" lat="31.7832624" lon="34.6574097"/>
+  <node id="822100237" lat="31.7856750" lon="34.6568571"/>
+  <node id="822100238" lat="31.7856378" lon="34.6568530"/>
+  <node id="822100241" lat="31.7856012" lon="34.6568634"/>
+  <node id="822100242" lat="31.7855695" lon="34.6568873"/>
+  <node id="822100244" lat="31.7855338" lon="34.6569640"/>
+  <node id="822100245" lat="31.7855337" lon="34.6570083"/>
+  <node id="822100246" lat="31.7855459" lon="34.6570502"/>
+  <node id="822100248" lat="31.7856208" lon="34.6571169"/>
+  <node id="822100249" lat="31.7856602" lon="34.6571192"/>
+  <node id="822100250" lat="31.7856978" lon="34.6571054"/>
+  <node id="822100251" lat="31.7857241" lon="34.6570836"/>
+  <node id="822100255" lat="31.7857562" lon="34.6570190"/>
+  <node id="822100259" lat="31.7857538" lon="34.6569441"/>
+  <node id="822100260" lat="31.7857363" lon="34.6569053"/>
+  <node id="822100328" lat="31.7850001" lon="34.6583818"/>
+  <node id="822100330" lat="31.7850085" lon="34.6584126"/>
+  <node id="822100332" lat="31.7850247" lon="34.6584388"/>
+  <node id="822100334" lat="31.7850734" lon="34.6584674"/>
+  <node id="822100335" lat="31.7851009" lon="34.6584669"/>
+  <node id="822100341" lat="31.7851269" lon="34.6584564"/>
+  <node id="822100347" lat="31.7851723" lon="34.6583765"/>
+  <node id="822100349" lat="31.7851702" lon="34.6583418"/>
+  <node id="822100352" lat="31.7851583" lon="34.6583099"/>
+  <node id="822100353" lat="31.7851441" lon="34.6582904"/>
+  <node id="822100355" lat="31.7850775" lon="34.6582646"/>
+  <node id="822100358" lat="31.7850502" lon="34.6582732"/>
+  <node id="822100360" lat="31.7850267" lon="34.6582916"/>
+  <node id="822100362" lat="31.7850094" lon="34.6583179"/>
+  <node id="822108889" lat="31.7882436" lon="34.6425471"/>
+  <node id="872330135" lat="31.7929785" lon="34.6342567"/>
+  <node id="872330166" lat="31.7927492" lon="34.6335844"/>
+  <node id="872330170" lat="31.7925642" lon="34.6335334"/>
+  <node id="872330194" lat="31.7922851" lon="34.6344935"/>
+  <node id="872330203" lat="31.7925114" lon="34.6345965"/>
+  <node id="872330209" lat="31.7927584" lon="34.6345426"/>
+  <node id="872431520" lat="31.7970562" lon="34.6321202"/>
+  <node id="872432678" lat="31.7972117" lon="34.6324060"/>
+  <node id="872435303" lat="31.7969540" lon="34.6321433"/>
+  <node id="872435307" lat="31.7969112" lon="34.6321793"/>
+  <node id="872435311" lat="31.7968709" lon="34.6322464"/>
+  <node id="872435314" lat="31.7968556" lon="34.6323142"/>
+  <node id="872435330" lat="31.7968823" lon="34.6324491"/>
+  <node id="872435332" lat="31.7969216" lon="34.6325019"/>
+  <node id="872435336" lat="31.7969733" lon="34.6325371"/>
+  <node id="872435338" lat="31.7970284" lon="34.6325508"/>
+  <node id="872435341" lat="31.7970845" lon="34.6325441"/>
+  <node id="872435344" lat="31.7971362" lon="34.6325178"/>
+  <node id="872435346" lat="31.7971820" lon="34.6324694"/>
+  <node id="872435356" lat="31.7972218" lon="34.6323345"/>
+  <node id="872435362" lat="31.7971875" lon="34.6322094"/>
+  <node id="872435367" lat="31.7971519" lon="34.6321655"/>
+  <node id="872435370" lat="31.7971073" lon="34.6321350"/>
+  <node id="891575606" lat="31.7760541" lon="34.6615719"/>
+  <node id="891575607" lat="31.7760316" lon="34.6614892"/>
+  <node id="891575608" lat="31.7759874" lon="34.6614198"/>
+  <node id="891575609" lat="31.7759262" lon="34.6613712"/>
+  <node id="891575610" lat="31.7758549" lon="34.6613489"/>
+  <node id="891575611" lat="31.7757814" lon="34.6613554"/>
+  <node id="891575612" lat="31.7757138" lon="34.6613897"/>
+  <node id="891575613" lat="31.7756594" lon="34.6614482"/>
+  <node id="891575614" lat="31.7756243" lon="34.6615244"/>
+  <node id="891575621" lat="31.7756249" lon="34.6616952"/>
+  <node id="891575622" lat="31.7756623" lon="34.6617738"/>
+  <node id="891575625" lat="31.7757201" lon="34.6618327"/>
+  <node id="891575626" lat="31.7757915" lon="34.6618651"/>
+  <node id="891575627" lat="31.7758431" lon="34.6618698"/>
+  <node id="891575628" lat="31.7759422" lon="34.6618371"/>
+  <node id="891575629" lat="31.7759949" lon="34.6617891"/>
+  <node id="1122536143" lat="31.7883038" lon="34.6425487"/>
+  <node id="1122536144" lat="31.7796020" lon="34.6606243">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="1122536150" lat="31.7865470" lon="34.6463511">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="1122536158" lat="31.7845121" lon="34.6504779">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="1163013197" lat="31.7780961" lon="34.6632187"/>
+  <node id="1163013255" lat="31.7761975" lon="34.6619254"/>
+  <node id="1163013290" lat="31.7845561" lon="34.6503886">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="1163013338" lat="31.7782968" lon="34.6633538">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="1163013351" lat="31.7796753" lon="34.6610593"/>
+  <node id="1163013359" lat="31.7784404" lon="34.6634585">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="1163013421" lat="31.7864817" lon="34.6464816">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="1163013450" lat="31.7864167" lon="34.6469306"/>
+  <node id="1163013460" lat="31.7865945" lon="34.6465560">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="1163013500" lat="31.7800653" lon="34.6608668"/>
+  <node id="1163013710" lat="31.7786292" lon="34.6630956"/>
+  <node id="1163013719" lat="31.7770528" lon="34.6625356"/>
+  <node id="1163034841" lat="31.7921897" lon="34.6337520"/>
+  <node id="1163048335" lat="31.7895755" lon="34.6403377">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="1163048360" lat="31.7894968" lon="34.6402691">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="1163318375" lat="31.7836870" lon="34.6559320"/>
+  <node id="1163318388" lat="31.7841497" lon="34.6550520"/>
+  <node id="1163339286" lat="31.7970037" lon="34.6321231"/>
+  <node id="1167192178" lat="31.7816435" lon="34.6603634"/>
+  <node id="1167192198" lat="31.7822034" lon="34.6589033"/>
+  <node id="1167192311" lat="31.7829239" lon="34.6574221"/>
+  <node id="1168881855" lat="31.7854877" lon="34.6523072"/>
+  <node id="1168881869" lat="31.7853861" lon="34.6522374"/>
+  <node id="1168881871" lat="31.7845380" lon="34.6539781"/>
+  <node id="1168881880" lat="31.7846415" lon="34.6540493"/>
+  <node id="1275837192" lat="31.7851772" lon="34.6582609"/>
+  <node id="1275837194" lat="31.7856074" lon="34.6572570"/>
+  <node id="1275837219" lat="31.7837798" lon="34.6577070"/>
+  <node id="1275837230" lat="31.7846813" lon="34.6581837"/>
+  <node id="1275842333" lat="31.7817942" lon="34.6599632"/>
+  <node id="1275842346" lat="31.7826170" lon="34.6578627"/>
+  <node id="1275842399" lat="31.7813542" lon="34.6610521"/>
+  <node id="1275846510" lat="31.7811462" lon="34.6615839"/>
+  <node id="1275846516" lat="31.7798533" lon="34.6609069"/>
+  <node id="1275846518" lat="31.7800029" lon="34.6609408"/>
+  <node id="1343612715" lat="31.7863134" lon="34.6467780"/>
+  <node id="1343612730" lat="31.7866166" lon="34.6462085"/>
+  <node id="1344538664" lat="31.7850742" lon="34.6528775"/>
+  <node id="1785756599" lat="31.7885984" lon="34.6428664"/>
+  <node id="1788343642" lat="31.7882066" lon="34.6433705"/>
+  <node id="1788343649" lat="31.7871943" lon="34.6448814"/>
+  <node id="1788343650" lat="31.7886313" lon="34.6424551"/>
+  <node id="1788343656" lat="31.7893159" lon="34.6408699"/>
+  <node id="1788343657" lat="31.7883669" lon="34.6424443"/>
+  <node id="1788343659" lat="31.7879645" lon="34.6432149"/>
+  <node id="1788343660" lat="31.7879553" lon="34.6431037"/>
+  <node id="1788343661" lat="31.7868709" lon="34.6459870"/>
+  <node id="1788343663" lat="31.7885577" lon="34.6426356"/>
+  <node id="1788343665" lat="31.7862720" lon="34.6472792"/>
+  <node id="1788343666" lat="31.7868399" lon="34.6457515"/>
+  <node id="1788343668" lat="31.7891903" lon="34.6408958"/>
+  <node id="1788343671" lat="31.7881480" lon="34.6434314"/>
+  <node id="1788343672" lat="31.7884307" lon="34.6423317"/>
+  <node id="1788343675" lat="31.7885515" lon="34.6427299"/>
+  <node id="1788343679" lat="31.7891699" lon="34.6412883"/>
+  <node id="1788343680" lat="31.7870157" lon="34.6453915"/>
+  <node id="1788343684" lat="31.7883343" lon="34.6424854"/>
+  <node id="1788343687" lat="31.7885831" lon="34.6428039"/>
+  <node id="1788343689" lat="31.7869951" lon="34.6457101"/>
+  <node id="1788343690" lat="31.7879383" lon="34.6433187">
+    <tag k="crossing" v="island"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="1788343692" lat="31.7885766" lon="34.6425731"/>
+  <node id="1788343694" lat="31.7889772" lon="34.6412194"/>
+  <node id="1788343695" lat="31.7874282" lon="34.6449401"/>
+  <node id="1788368848" lat="31.7897524" lon="34.6399680"/>
+  <node id="1788368875" lat="31.7900170" lon="34.6405596"/>
+  <node id="1788368967" lat="31.7901964" lon="34.6405761"/>
+  <node id="1788368994" lat="31.7872624" lon="34.6452838"/>
+  <node id="1788369056" lat="31.7901178" lon="34.6405722"/>
+  <node id="1788369059" lat="31.7896842" lon="34.6404308">
+    <tag k="crossing" v="island"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="1788369089" lat="31.7871479" lon="34.6454838"/>
+  <node id="1788369107" lat="31.7897394" lon="34.6404649"/>
+  <node id="1788369174" lat="31.7898164" lon="34.6404952"/>
+  <node id="1788369204" lat="31.7893752" lon="34.6407488"/>
+  <node id="1788369207" lat="31.7915312" lon="34.6402556"/>
+  <node id="1788369284" lat="31.7899623" lon="34.6405435"/>
+  <node id="1788369300" lat="31.7894281" lon="34.6403983">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="1788369333" lat="31.7899076" lon="34.6405274"/>
+  <node id="1788372500" lat="31.7917821" lon="34.6382548"/>
+  <node id="1788372506" lat="31.7910513" lon="34.6399478"/>
+  <node id="1788372508" lat="31.7916595" lon="34.6380129"/>
+  <node id="1788372516" lat="31.7918158" lon="34.6383584"/>
+  <node id="1788372526" lat="31.7915276" lon="34.6378702"/>
+  <node id="1788372527" lat="31.7916949" lon="34.6380667"/>
+  <node id="1788372531" lat="31.7917251" lon="34.6381206"/>
+  <node id="1788372536" lat="31.7919798" lon="34.6391623"/>
+  <node id="1788372545" lat="31.7917536" lon="34.6381796"/>
+  <node id="1788372548" lat="31.7916719" lon="34.6401580"/>
+  <node id="1788372550" lat="31.7902488" lon="34.6405439"/>
+  <node id="1788372552" lat="31.7916169" lon="34.6402012"/>
+  <node id="1788372559" lat="31.7905651" lon="34.6400411"/>
+  <node id="1788372561" lat="31.7913660" lon="34.6401314"/>
+  <node id="1788372562" lat="31.7919684" lon="34.6390832"/>
+  <node id="1788372563" lat="31.7914539" lon="34.6378167"/>
+  <node id="1788372564" lat="31.7907967" lon="34.6399688"/>
+  <node id="1788372566" lat="31.7902899" lon="34.6405118"/>
+  <node id="1788372568" lat="31.7916102" lon="34.6379438"/>
+  <node id="1788372571" lat="31.7917203" lon="34.6400841"/>
+  <node id="1788372572" lat="31.7911399" lon="34.6399757"/>
+  <node id="1788372575" lat="31.7904438" lon="34.6402435"/>
+  <node id="1788372577" lat="31.7914571" lon="34.6401979"/>
+  <node id="1788372578" lat="31.7904750" lon="34.6401233"/>
+  <node id="1788372579" lat="31.7903369" lon="34.6404703"/>
+  <node id="1788372580" lat="31.7919393" lon="34.6395345"/>
+  <node id="1788372583" lat="31.7918014" lon="34.6399378"/>
+  <node id="1788372584" lat="31.7903722" lon="34.6404185"/>
+  <node id="1802991698" lat="31.7962362" lon="34.6323772">
+    <tag k="description" v="כתובת:אקסודוס 13 אשדוד"/>
+    <tag k="gtfs:id" v="25905"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="אקסודוס/לילי"/>
+    <tag k="ref" v="11425"/>
+    <tag k="source" v="israel_gtfs_v1"/>
+  </node>
+  <node id="1802991699" lat="31.7962838" lon="34.6326534">
+    <tag k="description" v="כתובת:אקסודוס 22 אשדוד"/>
+    <tag k="gtfs:id" v="26141"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="אקסודוס/לילי"/>
+    <tag k="ref" v="13131"/>
+    <tag k="source" v="israel_gtfs_v1"/>
+  </node>
+  <node id="1802992634" lat="31.7851370" lon="34.6496230">
+    <tag k="description" v="כתובת:שדרות מנחם בגין  אשדוד"/>
+    <tag k="fixme" v="check/adjust position and/or merge with existing stop if exists"/>
+    <tag k="gtfs:id" v="26114"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="בגין-בית האופנה"/>
+    <tag k="ref" v="13099"/>
+    <tag k="source" v="israel_gtfs_v1"/>
+  </node>
+  <node id="1803023528" lat="31.7843580" lon="34.6545310">
+    <tag k="description" v="כתובת:הכלנית 8 אשדוד"/>
+    <tag k="fixme" v="check/adjust position and/or merge with existing stop if exists"/>
+    <tag k="gtfs:id" v="25916"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="הכלנית/הנורית"/>
+    <tag k="ref" v="11571"/>
+    <tag k="source" v="israel_gtfs_v1"/>
+  </node>
+  <node id="1803023581" lat="31.7853270" lon="34.6525200">
+    <tag k="description" v="כתובת:הכלנית 11 אשדוד"/>
+    <tag k="fixme" v="check/adjust position and/or merge with existing stop if exists"/>
+    <tag k="gtfs:id" v="26118"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="הכלנית/מבוא הדמומית"/>
+    <tag k="ref" v="13103"/>
+    <tag k="source" v="israel_gtfs_v1"/>
+  </node>
+  <node id="1803023586" lat="31.7853500" lon="34.6524730">
+    <tag k="description" v="כתובת:הכלנית 20 אשדוד"/>
+    <tag k="fixme" v="check/adjust position and/or merge with existing stop if exists"/>
+    <tag k="gtfs:id" v="26184"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="הכלנית/מבוא הדמומית"/>
+    <tag k="ref" v="13178"/>
+    <tag k="source" v="israel_gtfs_v1"/>
+  </node>
+  <node id="1803023603" lat="31.7839100" lon="34.6554710">
+    <tag k="description" v="כתובת:הכלנית 1 אשדוד"/>
+    <tag k="fixme" v="check/adjust position and/or merge with existing stop if exists"/>
+    <tag k="gtfs:id" v="12024"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="הכלנית/שד.אלטלנה"/>
+    <tag k="ref" v="10121"/>
+    <tag k="source" v="israel_gtfs_v1"/>
+  </node>
+  <node id="1803030867" lat="31.7879690" lon="34.6427930">
+    <tag k="description" v="כתובת:הציונות  אשדוד"/>
+    <tag k="fixme" v="check/adjust position and/or merge with existing stop if exists"/>
+    <tag k="gtfs:id" v="26150"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="העצמאות/הציונות"/>
+    <tag k="ref" v="13142"/>
+    <tag k="source" v="israel_gtfs_v1"/>
+  </node>
+  <node id="1803030868" lat="31.7885780" lon="34.6430590">
+    <tag k="description" v="כתובת:העצמאות  אשדוד"/>
+    <tag k="fixme" v="check/adjust position and/or merge with existing stop if exists"/>
+    <tag k="gtfs:id" v="26151"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="העצמאות/הציונות"/>
+    <tag k="ref" v="13143"/>
+    <tag k="source" v="israel_gtfs_v1"/>
+  </node>
+  <node id="1803032019" lat="31.7843610" lon="34.6580300">
+    <tag k="description" v="כתובת:הרב יוסף משאש 13 אשדוד"/>
+    <tag k="fixme" v="check/adjust position and/or merge with existing stop if exists"/>
+    <tag k="gtfs:id" v="25909"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="הרב יוסף משאש/נס ציונה"/>
+    <tag k="ref" v="11564"/>
+    <tag k="source" v="israel_gtfs_v1"/>
+  </node>
+  <node id="1803037156" lat="31.7980670" lon="34.6328190">
+    <tag k="description" v="כתובת:מפקורה  אשדוד"/>
+    <tag k="fixme" v="check/adjust position and/or merge with existing stop if exists"/>
+    <tag k="gtfs:id" v="26142"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="חוף הקשתות"/>
+    <tag k="ref" v="13132"/>
+    <tag k="source" v="israel_gtfs_v1"/>
+  </node>
+  <node id="1803047642" lat="31.7940771" lon="34.6332757">
+    <tag k="description" v="כתובת:אקסודוס 5 אשדוד"/>
+    <tag k="gtfs:id" v="25906"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="כיכר הקשתות"/>
+    <tag k="ref" v="11426"/>
+    <tag k="source" v="israel_gtfs_v1"/>
+  </node>
+  <node id="1803055579" lat="31.7861800" lon="34.6470430">
+    <tag k="description" v="כתובת:שדרות מנחם בגין  אשדוד"/>
+    <tag k="fixme" v="check/adjust position and/or merge with existing stop if exists"/>
+    <tag k="gtfs:id" v="26170"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="מנחם בגין / בני ברית"/>
+    <tag k="ref" v="13164"/>
+    <tag k="source" v="israel_gtfs_v1"/>
+  </node>
+  <node id="1803055585" lat="31.7862860" lon="34.6472000">
+    <tag k="description" v="כתובת:שדרות מנחם בגין  אשדוד"/>
+    <tag k="fixme" v="check/adjust position and/or merge with existing stop if exists"/>
+    <tag k="gtfs:id" v="26171"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="מנחם בגין / בני ברית"/>
+    <tag k="ref" v="13165"/>
+    <tag k="source" v="israel_gtfs_v1"/>
+  </node>
+  <node id="1803062288" lat="31.7841600" lon="34.6579260">
+    <tag k="description" v="כתובת:הרב יוסף משאש 8 אשדוד"/>
+    <tag k="fixme" v="check/adjust position and/or merge with existing stop if exists"/>
+    <tag k="gtfs:id" v="26129"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="משאש/נס ציונה"/>
+    <tag k="ref" v="13114"/>
+    <tag k="source" v="israel_gtfs_v1"/>
+  </node>
+  <node id="1803081932" lat="31.7822610" lon="34.6587420">
+    <tag k="description" v="כתובת:שדרות ראשון לציון 14 אשדוד"/>
+    <tag k="fixme" v="check/adjust position and/or merge with existing stop if exists"/>
+    <tag k="gtfs:id" v="26127"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="ראשל''צ / דגניה"/>
+    <tag k="ref" v="13112"/>
+    <tag k="source" v="israel_gtfs_v1"/>
+  </node>
+  <node id="1803086678" lat="31.7778280" lon="34.6628350">
+    <tag k="description" v="כתובת:  אשדוד"/>
+    <tag k="fixme" v="check/adjust position and/or merge with existing stop if exists"/>
+    <tag k="gtfs:id" v="28637"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="שד. מנחם בגין/שד. משה סנה"/>
+    <tag k="ref" v="19142"/>
+    <tag k="source" v="israel_gtfs_v1"/>
+  </node>
+  <node id="1803086679" lat="31.7788910" lon="34.6625460">
+    <tag k="description" v="כתובת:שדרות מנחם בגין 13 אשדוד"/>
+    <tag k="fixme" v="check/adjust position and/or merge with existing stop if exists"/>
+    <tag k="gtfs:id" v="28638"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="שד. מנחם בגין/שד. משה סנה"/>
+    <tag k="ref" v="19143"/>
+    <tag k="source" v="israel_gtfs_v1"/>
+  </node>
+  <node id="1803087646" lat="31.7824360" lon="34.6582800">
+    <tag k="description" v="כתובת:שדרות ראשון לציון 29 אשדוד"/>
+    <tag k="fixme" v="check/adjust position and/or merge with existing stop if exists"/>
+    <tag k="gtfs:id" v="25910"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="שד.ראשון לציון/יסוד המעלה"/>
+    <tag k="ref" v="11565"/>
+    <tag k="source" v="israel_gtfs_v1"/>
+  </node>
+  <node id="1803087648" lat="31.7812920" lon="34.6611940">
+    <tag k="description" v="כתובת:שדרות ראשון לציון 6 אשדוד"/>
+    <tag k="fixme" v="check/adjust position and/or merge with existing stop if exists"/>
+    <tag k="gtfs:id" v="26132"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="שד.ראשון לציון/שפייה"/>
+    <tag k="ref" v="13117"/>
+    <tag k="source" v="israel_gtfs_v1"/>
+  </node>
+  <node id="1803087650" lat="31.7813880" lon="34.6609460">
+    <tag k="description" v="כתובת:שדרות ראשון לציון 9 אשדוד"/>
+    <tag k="fixme" v="check/adjust position and/or merge with existing stop if exists"/>
+    <tag k="gtfs:id" v="25911"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="שד.ראשון לציון/שפייה"/>
+    <tag k="ref" v="11566"/>
+    <tag k="source" v="israel_gtfs_v1"/>
+  </node>
+  <node id="1803093277" lat="31.7901042" lon="34.6394001">
+    <tag k="description" v="כתובת:שדרות מנחם בגין  אשדוד"/>
+    <tag k="fixme" v="check/adjust position and/or merge with existing stop if exists"/>
+    <tag k="gtfs:id" v="28613"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="תחנה מרכזית אשדוד"/>
+    <tag k="ref" v="19001"/>
+    <tag k="source" v="israel_gtfs_v1"/>
+  </node>
+  <node id="1803093501" lat="31.7907899" lon="34.6399530">
+    <tag k="description" v="כתובת:  אשדוד"/>
+    <tag k="fixme" v="check/adjust position and/or merge with existing stop if exists"/>
+    <tag k="gtfs:id" v="12607"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="תחנה מרכזית הסיטי"/>
+    <tag k="ref" v="10712"/>
+    <tag k="source" v="israel_gtfs_v1"/>
+  </node>
+  <node id="1803093664" lat="31.7747200" lon="34.6660970">
+    <tag k="bench" v="yes"/>
+    <tag k="description" v="כתובת:  אשדוד"/>
+    <tag k="fixme" v="check/adjust position and/or merge with existing stop if exists"/>
+    <tag k="gtfs:id" v="25575"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="מסוף הרכבת אשדוד"/>
+    <tag k="name:he" v="מסוף הרכבת אשדוד"/>
+    <tag k="ref" v="11038"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="source" v="israel_gtfs_v1"/>
+  </node>
+  <node id="1808848262" lat="31.7918339" lon="34.6384337"/>
+  <node id="2001676792" lat="31.7881919" lon="34.6425559"/>
+  <node id="2001869826" lat="31.7924322" lon="34.6346205"/>
+  <node id="2001869829" lat="31.7923867" lon="34.6346420"/>
+  <node id="2001869845" lat="31.7922727" lon="34.6347871"/>
+  <node id="2003324915" lat="31.7921208" lon="34.6351041"/>
+  <node id="2003344870" lat="31.7906549" lon="34.6381366"/>
+  <node id="2003344893" lat="31.7919810" lon="34.6392562"/>
+  <node id="2003344920" lat="31.7918766" lon="34.6397419"/>
+  <node id="2003344924" lat="31.7912876" lon="34.6400719"/>
+  <node id="2003344927" lat="31.7919492" lon="34.6389704"/>
+  <node id="2003344940" lat="31.7904234" lon="34.6403065"/>
+  <node id="2003365335" lat="31.7921181" lon="34.6339282"/>
+  <node id="2003365353" lat="31.7924690" lon="34.6335431"/>
+  <node id="2003365399" lat="31.7921976" lon="34.6343927"/>
+  <node id="2003365419" lat="31.7921040" lon="34.6340248"/>
+  <node id="2003365426" lat="31.7921217" lon="34.6342190"/>
+  <node id="2003417169" lat="31.7930671" lon="34.6339430"/>
+  <node id="2003417178" lat="31.7972232" lon="34.6324909">
+    <tag k="crossing" v="island"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="2003417184" lat="31.7975021" lon="34.6326051"/>
+  <node id="2003417195" lat="31.7973069" lon="34.6325024"/>
+  <node id="2003417201" lat="31.7947244" lon="34.6331938"/>
+  <node id="2003417202" lat="31.7966691" lon="34.6323927"/>
+  <node id="2003417213" lat="31.7959323" lon="34.6326608"/>
+  <node id="2003417230" lat="31.7929934" lon="34.6339298"/>
+  <node id="2003417253" lat="31.7935610" lon="34.6337117"/>
+  <node id="2003417272" lat="31.7958585" lon="34.6326890"/>
+  <node id="2003417288" lat="31.7930895" lon="34.6337952"/>
+  <node id="2003417291" lat="31.7957396" lon="34.6327419"/>
+  <node id="2003417299" lat="31.7962387" lon="34.6325653"/>
+  <node id="2003417306" lat="31.7961189" lon="34.6325933"/>
+  <node id="2003417320" lat="31.7930307" lon="34.6340073"/>
+  <node id="2003417329" lat="31.7968229" lon="34.6324973">
+    <tag k="crossing" v="island"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="2003417357" lat="31.7959578" lon="34.6325268"/>
+  <node id="2003417397" lat="31.7963955" lon="34.6324195"/>
+  <node id="2003417399" lat="31.7968035" lon="34.6323471">
+    <tag k="crossing" v="island"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="2003417401" lat="31.7972113" lon="34.6322632"/>
+  <node id="2003417409" lat="31.7930018" lon="34.6341572"/>
+  <node id="2003417417" lat="31.7929001" lon="34.6337203"/>
+  <node id="2003417438" lat="31.7930120" lon="34.6338113"/>
+  <node id="2003417454" lat="31.7955505" lon="34.6328261"/>
+  <node id="2003417465" lat="31.7929261" lon="34.6343725"/>
+  <node id="2003417486" lat="31.7962218" lon="34.6324487"/>
+  <node id="2003417501" lat="31.7967329" lon="34.6323766"/>
+  <node id="2003417515" lat="31.7964068" lon="34.6325370"/>
+  <node id="2003417521" lat="31.7931162" lon="34.6339097"/>
+  <node id="2003417542" lat="31.7938255" lon="34.6335939"/>
+  <node id="2003417571" lat="31.7958251" lon="34.6325775"/>
+  <node id="2003417579" lat="31.7960946" lon="34.6324785"/>
+  <node id="2003417638" lat="31.7966838" lon="34.6325098"/>
+  <node id="2003417648" lat="31.7968378" lon="34.6323122"/>
+  <node id="2003417661" lat="31.7965364" lon="34.6325243"/>
+  <node id="2003417684" lat="31.7972573" lon="34.6323334">
+    <tag k="crossing" v="island"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="2003417709" lat="31.7959878" lon="34.6326396"/>
+  <node id="2003417716" lat="31.7949445" lon="34.6330958"/>
+  <node id="2003417728" lat="31.7968692" lon="34.6325024"/>
+  <node id="2003417738" lat="31.7973385" lon="34.6323778"/>
+  <node id="2008240043" lat="31.7964906" lon="34.6324102"/>
+  <node id="2008240060" lat="31.7948879" lon="34.6329947"/>
+  <node id="2008240063" lat="31.7956411" lon="34.6326594"/>
+  <node id="2008240064" lat="31.7939097" lon="34.6334301"/>
+  <node id="2008877583" lat="31.7859822" lon="34.6514511"/>
+  <node id="2008877587" lat="31.7858174" lon="34.6516297"/>
+  <node id="2008877599" lat="31.7858421" lon="34.6515023"/>
+  <node id="2008877603" lat="31.7859941" lon="34.6511958"/>
+  <node id="2008877613" lat="31.7856603" lon="34.6512974"/>
+  <node id="2008877633" lat="31.7848010" lon="34.6499074"/>
+  <node id="2008877636" lat="31.7857034" lon="34.6515278"/>
+  <node id="2008877638" lat="31.7857197" lon="34.6512465"/>
+  <node id="2008877673" lat="31.7856942" lon="34.6511094"/>
+  <node id="2008877713" lat="31.7859436" lon="34.6514839"/>
+  <node id="2008877763" lat="31.7857535" lon="34.6517638"/>
+  <node id="2008877768" lat="31.7859590" lon="34.6511583"/>
+  <node id="2008877770" lat="31.7859162" lon="34.6511344"/>
+  <node id="2008877776" lat="31.7860109" lon="34.6514064"/>
+  <node id="2008877784" lat="31.7860272" lon="34.6513539"/>
+  <node id="2008877800" lat="31.7860184" lon="34.6512436"/>
+  <node id="2008877821" lat="31.7855894" lon="34.6510665"/>
+  <node id="2008877823" lat="31.7857090" lon="34.6513016"/>
+  <node id="2008877826" lat="31.7857977" lon="34.6514852"/>
+  <node id="2008877830" lat="31.7855297" lon="34.6511526"/>
+  <node id="2008877839" lat="31.7858889" lon="34.6515037"/>
+  <node id="2008877862" lat="31.7857303" lon="34.6514107"/>
+  <node id="2008877895" lat="31.7858224" lon="34.6511346"/>
+  <node id="2008877903" lat="31.7857438" lon="34.6511975"/>
+  <node id="2008877942" lat="31.7854571" lon="34.6509967"/>
+  <node id="2008877947" lat="31.7849829" lon="34.6506427"/>
+  <node id="2008877951" lat="31.7857790" lon="34.6511591"/>
+  <node id="2008877956" lat="31.7854444" lon="34.6510989"/>
+  <node id="2008877958" lat="31.7857593" lon="34.6514537"/>
+  <node id="2008877963" lat="31.7856714" lon="34.6516297"/>
+  <node id="2008919606" lat="31.7852063" lon="34.6508343"/>
+  <node id="2026357780" lat="31.7848787" lon="34.6503624"/>
+  <node id="2026357782" lat="31.7856158" lon="34.6512311"/>
+  <node id="2026357788" lat="31.7850900" lon="34.6507563"/>
+  <node id="2026357798" lat="31.7848872" lon="34.6502672"/>
+  <node id="2026357800" lat="31.7849209" lon="34.6505477"/>
+  <node id="2026357801" lat="31.7849725" lon="34.6507849"/>
+  <node id="2026357807" lat="31.7849027" lon="34.6502044"/>
+  <node id="2026357817" lat="31.7849692" lon="34.6499748"/>
+  <node id="2026381221" lat="31.7855274" lon="34.6568134"/>
+  <node id="2026381230" lat="31.7855887" lon="34.6568337"/>
+  <node id="2026381242" lat="31.7850494" lon="34.6565158"/>
+  <node id="2026381258" lat="31.7839841" lon="34.6558944"/>
+  <node id="2026381268" lat="31.7838164" lon="34.6554848"/>
+  <node id="2026381295" lat="31.7852426" lon="34.6567742"/>
+  <node id="2026381302" lat="31.7852723" lon="34.6566663"/>
+  <node id="2026381303" lat="31.7840861" lon="34.6559873"/>
+  <node id="2026381304" lat="31.7838845" lon="34.6556010"/>
+  <node id="2026381308" lat="31.7854339" lon="34.6567628"/>
+  <node id="2026381315" lat="31.7854843" lon="34.6569351"/>
+  <node id="2026381318" lat="31.7839293" lon="34.6558354"/>
+  <node id="2026381320" lat="31.7838837" lon="34.6557067"/>
+  <node id="2026381322" lat="31.7853885" lon="34.6568654"/>
+  <node id="2026381336" lat="31.7855157" lon="34.6569775"/>
+  <node id="2026381343" lat="31.7838906" lon="34.6557635">
+    <tag k="bicycle" v="yes"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing_ref" v="tiger"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="2026381360" lat="31.7839020" lon="34.6557925"/>
+  <node id="2045079707" lat="31.7751146" lon="34.6661060"/>
+  <node id="2045079721" lat="31.7743769" lon="34.6654609"/>
+  <node id="2045079727" lat="31.7751693" lon="34.6660336"/>
+  <node id="2045079729" lat="31.7744079" lon="34.6660468"/>
+  <node id="2045079735" lat="31.7749390" lon="34.6637269"/>
+  <node id="2045079740" lat="31.7743872" lon="34.6650519"/>
+  <node id="2045079743" lat="31.7752151" lon="34.6629005"/>
+  <node id="2045079751" lat="31.7743240" lon="34.6652557"/>
+  <node id="2045079757" lat="31.7741525" lon="34.6652425"/>
+  <node id="2045079763" lat="31.7755982" lon="34.6618759"/>
+  <node id="2045079783" lat="31.7748652" lon="34.6636879"/>
+  <node id="2045079786" lat="31.7750646" lon="34.6633565"/>
+  <node id="2045079794" lat="31.7757168" lon="34.6619296"/>
+  <node id="2045079810" lat="31.7756367" lon="34.6620425"/>
+  <node id="2045079878" lat="31.7748549" lon="34.6633549"/>
+  <node id="2045079893" lat="31.7749071" lon="34.6637591"/>
+  <node id="2045079908" lat="31.7745858" lon="34.6658349"/>
+  <node id="2045079917" lat="31.7743854" lon="34.6654011"/>
+  <node id="2045079941" lat="31.7741144" lon="34.6652785"/>
+  <node id="2045079944" lat="31.7750582" lon="34.6634181"/>
+  <node id="2045079951" lat="31.7742602" lon="34.6655809"/>
+  <node id="2045079955" lat="31.7740751" lon="34.6653820"/>
+  <node id="2045079957" lat="31.7750418" lon="34.6661380"/>
+  <node id="2045079963" lat="31.7744262" lon="34.6656954"/>
+  <node id="2045079971" lat="31.7745567" lon="34.6658275"/>
+  <node id="2045079979" lat="31.7742399" lon="34.6652187"/>
+  <node id="2045079980" lat="31.7750066" lon="34.6631312"/>
+  <node id="2045079981" lat="31.7742255" lon="34.6651697"/>
+  <node id="2045079989" lat="31.7743558" lon="34.6652939"/>
+  <node id="2045079991" lat="31.7750986" lon="34.6631744"/>
+  <node id="2045080007" lat="31.7750252" lon="34.6636618"/>
+  <node id="2045080019" lat="31.7753084" lon="34.6626916"/>
+  <node id="2045080021" lat="31.7742918" lon="34.6650129"/>
+  <node id="2045080032" lat="31.7752222" lon="34.6626349"/>
+  <node id="2045080050" lat="31.7748127" lon="34.6633923"/>
+  <node id="2045080067" lat="31.7745174" lon="34.6658080"/>
+  <node id="2045080070" lat="31.7740878" lon="34.6653266"/>
+  <node id="2045080087" lat="31.7751351" lon="34.6660819"/>
+  <node id="2045080088" lat="31.7747756" lon="34.6635664"/>
+  <node id="2045080110" lat="31.7756164" lon="34.6617957"/>
+  <node id="2045080125" lat="31.7748478" lon="34.6638825"/>
+  <node id="2045080142" lat="31.7743231" lon="34.6659747"/>
+  <node id="2045080145" lat="31.7744601" lon="34.6657547"/>
+  <node id="2045080165" lat="31.7743523" lon="34.6655143"/>
+  <node id="2045080186" lat="31.7756691" lon="34.6619821"/>
+  <node id="2045080203" lat="31.7747978" lon="34.6636229"/>
+  <node id="2045080212" lat="31.7750667" lon="34.6632978"/>
+  <node id="2045080218" lat="31.7752053" lon="34.6659057"/>
+  <node id="2045080227" lat="31.7749887" lon="34.6633492"/>
+  <node id="2045080238" lat="31.7747835" lon="34.6634442"/>
+  <node id="2045080251" lat="31.7748751" lon="34.6638128"/>
+  <node id="2045080255" lat="31.7751273" lon="34.6628476"/>
+  <node id="2045080259" lat="31.7750831" lon="34.6635309"/>
+  <node id="2045080261" lat="31.7742951" lon="34.6655675"/>
+  <node id="2045080270" lat="31.7741671" lon="34.6655690"/>
+  <node id="2045080276" lat="31.7743768" lon="34.6653412"/>
+  <node id="2045080278" lat="31.7747707" lon="34.6635045"/>
+  <node id="2045080290" lat="31.7750278" lon="34.6633776"/>
+  <node id="2045080313" lat="31.7749443" lon="34.6633354"/>
+  <node id="2045080315" lat="31.7749232" lon="34.6632921"/>
+  <node id="2045080320" lat="31.7743623" lon="34.6651482"/>
+  <node id="2045080340" lat="31.7748276" lon="34.6636610"/>
+  <node id="2045080343" lat="31.7744373" lon="34.6649017"/>
+  <node id="2045080346" lat="31.7741123" lon="34.6655215"/>
+  <node id="2045080358" lat="31.7747819" lon="34.6637588"/>
+  <node id="2045080378" lat="31.7750701" lon="34.6635930"/>
+  <node id="2045080385" lat="31.7742236" lon="34.6655843"/>
+  <node id="2045080388" lat="31.7740775" lon="34.6654393"/>
+  <node id="2045080416" lat="31.7749938" lon="34.6636850"/>
+  <node id="2045080421" lat="31.7755517" lon="34.6619836"/>
+  <node id="2045080427" lat="31.7747564" lon="34.6638322"/>
+  <node id="2045080431" lat="31.7750773" lon="34.6634673"/>
+  <node id="2045080437" lat="31.7749077" lon="34.6637013"/>
+  <node id="2045080448" lat="31.7751923" lon="34.6659743"/>
+  <node id="2045080457" lat="31.7743851" lon="34.6656096"/>
+  <node id="2045080471" lat="31.7740905" lon="34.6654830"/>
+  <node id="2045080474" lat="31.7742843" lon="34.6652299"/>
+  <node id="2045080494" lat="31.7749688" lon="34.6632063"/>
+  <node id="2045080530" lat="31.7747930" lon="34.6636894"/>
+  <node id="2045080532" lat="31.7743598" lon="34.6652236"/>
+  <node id="2045080536" lat="31.7777512" lon="34.6629951"/>
+  <node id="2045080546" lat="31.7751421" lon="34.6660736"/>
+  <node id="2045080549" lat="31.7750760" lon="34.6661299"/>
+  <node id="2045080563" lat="31.7744748" lon="34.6660788"/>
+  <node id="2045080574" lat="31.7742620" lon="34.6658590"/>
+  <node id="2045080587" lat="31.7742640" lon="34.6650948"/>
+  <node id="2045080605" lat="31.7743447" lon="34.6648546"/>
+  <node id="2174862398" lat="31.7922457" lon="34.6336774"/>
+  <node id="2550391602" lat="31.7841151" lon="34.6551239"/>
+  <node id="2561131181" lat="31.7980367" lon="34.6328931"/>
+  <node id="2561131182" lat="31.7980646" lon="34.6327851"/>
+  <node id="3110214761" lat="31.7785552" lon="34.6628229"/>
+  <node id="3110214762" lat="31.7783498" lon="34.6629755"/>
+  <node id="3110214789" lat="31.7781441" lon="34.6630237"/>
+  <node id="3110214792" lat="31.7782552" lon="34.6630074"/>
+  <node id="3110227193" lat="31.7797481" lon="34.6609571"/>
+  <node id="3391902590" lat="31.7843326" lon="34.6562756"/>
+  <node id="3492881208" lat="31.7797878" lon="34.6609163"/>
+  <node id="3516002330" lat="31.7851109" lon="34.6492578"/>
+  <node id="3516002333" lat="31.7856352" lon="34.6481814"/>
+  <node id="3516141528" lat="31.7975403" lon="34.6326257"/>
+  <node id="3523578155" lat="31.7851262" lon="34.6582758"/>
+  <node id="3523578156" lat="31.7851488" lon="34.6584368"/>
+  <node id="3531422052" lat="31.7859170" lon="34.6514967"/>
+  <node id="3531422053" lat="31.7860298" lon="34.6512980"/>
+  <node id="3531422054" lat="31.7858693" lon="34.6511263"/>
+  <node id="3531422055" lat="31.7857126" lon="34.6513580"/>
+  <node id="3531422058" lat="31.7851500" lon="34.6507992"/>
+  <node id="3536888933" lat="31.7854476" lon="34.6569044">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="3540287894" lat="31.7848917" lon="34.6504495"/>
+  <node id="3542718029" lat="31.7909618" lon="34.6399417"/>
+  <node id="3542718030" lat="31.7908837" lon="34.6399447"/>
+  <node id="3542718031" lat="31.7905169" lon="34.6400722"/>
+  <node id="3542718032" lat="31.7904603" lon="34.6401815"/>
+  <node id="3542718044" lat="31.7919633" lon="34.6394279"/>
+  <node id="3548566795" lat="31.7946878" lon="34.6332101"/>
+  <node id="3554072503" lat="31.7886048" lon="34.6429310"/>
+  <node id="3555071907" lat="31.7830698" lon="34.6573885"/>
+  <node id="3555071908" lat="31.7827976" lon="34.6575318"/>
+  <node id="3561849202" lat="31.7743646" lon="34.6660146"/>
+  <node id="3625421558" lat="31.7968883" lon="34.6322106"/>
+  <node id="3625492846" lat="31.7910960" lon="34.6373593"/>
+  <node id="3625492847" lat="31.7909838" lon="34.6372103"/>
+  <node id="3625492848" lat="31.7910203" lon="34.6371513"/>
+  <node id="3625492849" lat="31.7920717" lon="34.6349762"/>
+  <node id="3625492859" lat="31.7922160" lon="34.6346225"/>
+  <node id="3625492861" lat="31.7910553" lon="34.6370970"/>
+  <node id="3625492862" lat="31.7911297" lon="34.6376234"/>
+  <node id="3625492864" lat="31.7908470" lon="34.6377468"/>
+  <node id="3625492870" lat="31.7910932" lon="34.6372962"/>
+  <node id="3625492871" lat="31.7911115" lon="34.6372103"/>
+  <node id="3625492882" lat="31.7909108" lon="34.6376717"/>
+  <node id="3625492883" lat="31.7910750" lon="34.6376073"/>
+  <node id="3625492890" lat="31.7921889" lon="34.6347315"/>
+  <node id="3625521196" lat="31.7909134" lon="34.6372854"/>
+  <node id="3625521197" lat="31.7910195" lon="34.6375917"/>
+  <node id="3625521198" lat="31.7922194" lon="34.6345228"/>
+  <node id="3625521200" lat="31.7919032" lon="34.6353278"/>
+  <node id="3626551428" lat="31.7758943" lon="34.6618603"/>
+  <node id="3626551429" lat="31.7760332" lon="34.6617250"/>
+  <node id="3626551430" lat="31.7750512" lon="34.6636306"/>
+  <node id="3626551431" lat="31.7748983" lon="34.6633373"/>
+  <node id="3626551432" lat="31.7749517" lon="34.6637004"/>
+  <node id="3626551433" lat="31.7743264" lon="34.6655449"/>
+  <node id="3626551434" lat="31.7741947" lon="34.6652231"/>
+  <node id="3663770496" lat="31.7923456" lon="34.6346903"/>
+  <node id="3663898634" lat="31.7911822" lon="34.6399984">
+    <tag k="barrier" v="lift_gate"/>
+    <tag k="lift_gate:type" v="double"/>
+  </node>
+  <node id="3664253051" lat="31.7919764" lon="34.6393262">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="3780174057" lat="31.7742848" lon="34.6659234"/>
+  <node id="3800579359" lat="31.7741417" lon="34.6655523"/>
+  <node id="3800579368" lat="31.7741948" lon="34.6655797"/>
+  <node id="3813135991" lat="31.7855625" lon="34.6570775"/>
+  <node id="3813135992" lat="31.7857595" lon="34.6569813"/>
+  <node id="3815288918" lat="31.7783009" lon="34.6629957"/>
+  <node id="3815288919" lat="31.7783885" lon="34.6629537"/>
+  <node id="3864874023" lat="31.7764774" lon="34.6621425"/>
+  <node id="3864874024" lat="31.7760546" lon="34.6618553"/>
+  <node id="3864874025" lat="31.7761241" lon="34.6618810"/>
+  <node id="3864874026" lat="31.7762193" lon="34.6617666"/>
+  <node id="3864874027" lat="31.7760903" lon="34.6616522"/>
+  <node id="3864874028" lat="31.7761419" lon="34.6617082"/>
+  <node id="3893232934" lat="31.7937876" lon="34.6334845"/>
+  <node id="3893232939" lat="31.7943840" lon="34.6332190"/>
+  <node id="3894097327" lat="31.7952108" lon="34.6328509"/>
+  <node id="3894097348" lat="31.7960456" lon="34.6324958"/>
+  <node id="3909856383" lat="31.7854988" lon="34.6567986">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="3913565754" lat="31.7919806" lon="34.6353966"/>
+  <node id="3998890679" lat="31.7874958" lon="34.6447985"/>
+  <node id="4059697490" lat="31.7847926" lon="34.6565204"/>
+  <node id="4059697491" lat="31.7837565" lon="34.6559690">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="4059697492" lat="31.7837262" lon="34.6557203">
+    <tag k="bicycle" v="yes"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="4059697494" lat="31.7840670" lon="34.6552234"/>
+  <node id="4059697496" lat="31.7842429" lon="34.6548623"/>
+  <node id="4069222988" lat="31.7793365" lon="34.6611820"/>
+  <node id="4198480141" lat="31.7855275" lon="34.6519362"/>
+  <node id="4198480144" lat="31.7856049" lon="34.6517713"/>
+  <node id="4198480145" lat="31.7854989" lon="34.6511332"/>
+  <node id="4228583050" lat="31.7850725" lon="34.6508515"/>
+  <node id="4228583052" lat="31.7852761" lon="34.6509869"/>
+  <node id="4228583053" lat="31.7850878" lon="34.6531304"/>
+  <node id="4228583054" lat="31.7851501" lon="34.6530022"/>
+  <node id="4228816918" lat="31.7747841" lon="34.6637388">
+    <tag k="crossing" v="island"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="4228816919" lat="31.7748833" lon="34.6637991">
+    <tag k="crossing" v="island"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="4228816921" lat="31.7755950" lon="34.6618827">
+    <tag k="crossing" v="island"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="4228816922" lat="31.7756973" lon="34.6619538">
+    <tag k="crossing" v="island"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="4228816923" lat="31.7760804" lon="34.6618637">
+    <tag k="crossing" v="island"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="4228816924" lat="31.7761614" lon="34.6617222">
+    <tag k="crossing" v="island"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="4228816926" lat="31.7782058" lon="34.6632913">
+    <tag k="crossing" v="island"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="4228816928" lat="31.7783090" lon="34.6629922">
+    <tag k="crossing" v="island"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="4228816929" lat="31.7783152" lon="34.6629897"/>
+  <node id="4248502382" lat="31.7881427" lon="34.6434448">
+    <tag k="crossing" v="island"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="4323929579" lat="31.7785758" lon="34.6631973">
+    <tag k="crossing" v="island"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="4323956301" lat="31.7743636" lon="34.6654897"/>
+  <node id="4323956302" lat="31.7743806" lon="34.6654351"/>
+  <node id="4323956303" lat="31.7743821" lon="34.6653780"/>
+  <node id="4392436077" lat="31.7893790" lon="34.6405009">
+    <tag k="crossing" v="island"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="4392436079" lat="31.7894675" lon="34.6405604">
+    <tag k="crossing" v="island"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="4392436082" lat="31.7896348" lon="34.6402138">
+    <tag k="crossing" v="island"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <way id="27575944">
+    <nd ref="302775162"/>
+    <nd ref="2003417465"/>
+    <nd ref="872330135"/>
+    <nd ref="2003417409"/>
+    <nd ref="302775163"/>
+    <nd ref="2003417230"/>
+    <nd ref="302775164"/>
+    <nd ref="2003417417"/>
+    <nd ref="302775166"/>
+    <nd ref="872330166"/>
+    <nd ref="302775167"/>
+    <nd ref="872330170"/>
+    <nd ref="2003365353"/>
+    <nd ref="302775168"/>
+    <nd ref="302775170"/>
+    <nd ref="2174862398"/>
+    <nd ref="1163034841"/>
+    <nd ref="302775171"/>
+    <nd ref="2003365335"/>
+    <nd ref="2003365419"/>
+    <nd ref="302775172"/>
+    <nd ref="2003365426"/>
+    <nd ref="302775173"/>
+    <nd ref="2003365399"/>
+    <nd ref="872330194"/>
+    <nd ref="302774798"/>
+    <nd ref="872330203"/>
+    <nd ref="302775175"/>
+    <nd ref="872330209"/>
+    <nd ref="302775162"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="junction" v="roundabout"/>
+  </way>
+  <way id="28313089">
+    <nd ref="822100238"/>
+    <nd ref="2026381230"/>
+    <nd ref="2026381221"/>
+    <nd ref="3909856383"/>
+    <nd ref="2026381308"/>
+    <nd ref="2026381302"/>
+    <nd ref="2026381242"/>
+    <nd ref="2026381303"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="שדרות אלטלנה"/>
+    <tag k="name:en" v="Sderot Altalena"/>
+    <tag k="name:he" v="שדרות אלטלנה"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="38319322">
+    <nd ref="817929597"/>
+    <nd ref="452420616"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="ראש פינה"/>
+    <tag k="name:en" v="Rosh Pina"/>
+    <tag k="name:he" v="ראש פינה"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="41981947">
+    <nd ref="410603523"/>
+    <nd ref="4323929579"/>
+    <nd ref="1163013710"/>
+    <nd ref="1163013351"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="70"/>
+    <tag k="name" v="שדרות מנחם בגין"/>
+    <tag k="name:ar" v="مناحيم بيغن"/>
+    <tag k="name:en" v="Menahem Begin Avenue"/>
+    <tag k="name:en1" v="Sderot Menahem Begin"/>
+    <tag k="name:en2" v="Menahem Begin"/>
+    <tag k="name:en3" v="Menahem Begin Blvd."/>
+    <tag k="name:en4" v="Sderot Menachem Begin"/>
+    <tag k="name:en5" v="Begin Avenue"/>
+    <tag k="name:he" v="שדרות מנחם בגין"/>
+    <tag k="name:he1" v="מנחם בגין"/>
+    <tag k="name:he2" v="בגין"/>
+    <tag k="name:he3" v="שדרות בגין"/>
+    <tag k="name:ru" v="Менахема Бегина"/>
+    <tag k="name:es" v="Avenida Menahem Begin"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="41986914">
+    <nd ref="520547763"/>
+    <nd ref="520522644"/>
+    <nd ref="1122536143"/>
+    <nd ref="822108889"/>
+    <nd ref="2001676792"/>
+    <nd ref="520522654"/>
+    <nd ref="520522657"/>
+    <nd ref="520522660"/>
+    <nd ref="520548929"/>
+    <nd ref="520522664"/>
+    <nd ref="520522673"/>
+    <nd ref="520522674"/>
+    <nd ref="520545551"/>
+    <nd ref="1788343660"/>
+    <nd ref="520543885"/>
+    <nd ref="520543890"/>
+    <nd ref="520543894"/>
+    <nd ref="520523006"/>
+    <nd ref="520522604"/>
+    <nd ref="520522607"/>
+    <nd ref="520522610"/>
+    <nd ref="520522614"/>
+    <nd ref="520522618"/>
+    <nd ref="520548298"/>
+    <nd ref="520522622"/>
+    <nd ref="520522625"/>
+    <nd ref="520522630"/>
+    <nd ref="520548643"/>
+    <nd ref="520522634"/>
+    <nd ref="3554072503"/>
+    <nd ref="1785756599"/>
+    <nd ref="1788343687"/>
+    <nd ref="520522638"/>
+    <nd ref="1788343675"/>
+    <nd ref="520522640"/>
+    <nd ref="520547759"/>
+    <nd ref="520547763"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="junction" v="roundabout"/>
+  </way>
+  <way id="67740433">
+    <nd ref="388793531"/>
+    <nd ref="2026357801"/>
+    <nd ref="4228583050"/>
+    <nd ref="4228583052"/>
+    <nd ref="2008877956"/>
+    <nd ref="4198480145"/>
+    <nd ref="2008877830"/>
+    <nd ref="2026357782"/>
+    <nd ref="2008877613"/>
+    <nd ref="2008877862"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="שדרות הפרחים"/>
+    <tag k="name:en" v="HaPrahim Avenue"/>
+    <tag k="name:en1" v="Sderot Ha'Perachim"/>
+    <tag k="name:en2" v="Sderot HaPrahim"/>
+    <tag k="name:he" v="שדרות הפרחים"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="67740437">
+    <nd ref="817929592"/>
+    <nd ref="822100237"/>
+    <nd ref="822100238"/>
+    <nd ref="822100241"/>
+    <nd ref="822100242"/>
+    <nd ref="817929594"/>
+    <nd ref="822100244"/>
+    <nd ref="822100245"/>
+    <nd ref="822100246"/>
+    <nd ref="3813135991"/>
+    <nd ref="817929597"/>
+    <nd ref="822100248"/>
+    <nd ref="822100249"/>
+    <nd ref="822100250"/>
+    <nd ref="822100251"/>
+    <nd ref="817929585"/>
+    <nd ref="822100255"/>
+    <nd ref="3813135992"/>
+    <nd ref="822100259"/>
+    <nd ref="822100260"/>
+    <nd ref="817929592"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="junction" v="roundabout"/>
+  </way>
+  <way id="67740438">
+    <nd ref="822100328"/>
+    <nd ref="822100330"/>
+    <nd ref="822100332"/>
+    <nd ref="817929606"/>
+    <nd ref="822100334"/>
+    <nd ref="822100335"/>
+    <nd ref="822100341"/>
+    <nd ref="3523578156"/>
+    <nd ref="817929604"/>
+    <nd ref="822100347"/>
+    <nd ref="822100349"/>
+    <nd ref="822100352"/>
+    <nd ref="822100353"/>
+    <nd ref="3523578155"/>
+    <nd ref="452420616"/>
+    <nd ref="822100355"/>
+    <nd ref="822100358"/>
+    <nd ref="822100360"/>
+    <nd ref="822100362"/>
+    <nd ref="817929598"/>
+    <nd ref="822100328"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="name" v="הרב יוסף משאש"/>
+    <tag k="name:en" v="HaRav Yosef Mashash"/>
+    <tag k="name:he" v="הרב יוסף משאש"/>
+  </way>
+  <way id="67741020">
+    <nd ref="817936205"/>
+    <nd ref="1163013500"/>
+    <nd ref="817936199"/>
+    <nd ref="1122536144"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="המשנה"/>
+    <tag k="name:en" v="HaMishna"/>
+    <tag k="name:he" v="המשנה"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="68276506">
+    <nd ref="1788343689"/>
+    <nd ref="1788369089"/>
+    <nd ref="1788368994"/>
+    <nd ref="1788343695"/>
+    <nd ref="3998890679"/>
+    <nd ref="4248502382"/>
+    <nd ref="1788343671"/>
+    <nd ref="1788343642"/>
+    <nd ref="520522607"/>
+    <tag k="highway" v="tertiary_link"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="68276507">
+    <nd ref="1788343660"/>
+    <nd ref="1788343659"/>
+    <nd ref="1788343690"/>
+    <nd ref="1788343649"/>
+    <nd ref="1788343680"/>
+    <tag k="highway" v="tertiary_link"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="68276508">
+    <nd ref="1788343675"/>
+    <nd ref="1788343663"/>
+    <nd ref="1788343692"/>
+    <nd ref="1788343650"/>
+    <nd ref="1788343679"/>
+    <nd ref="1788343656"/>
+    <tag k="highway" v="tertiary_link"/>
+    <tag k="note" v="FIXME"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="68276510">
+    <nd ref="1788343668"/>
+    <nd ref="1788343694"/>
+    <nd ref="1788343672"/>
+    <nd ref="1788343657"/>
+    <nd ref="1788343684"/>
+    <nd ref="822108889"/>
+    <tag k="highway" v="tertiary_link"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="note" v="FIXME"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="73611885">
+    <nd ref="872431520"/>
+    <nd ref="1163339286"/>
+    <nd ref="872435303"/>
+    <nd ref="872435307"/>
+    <nd ref="3625421558"/>
+    <nd ref="872435311"/>
+    <nd ref="872435314"/>
+    <nd ref="428222606"/>
+    <nd ref="872435330"/>
+    <nd ref="872435332"/>
+    <nd ref="872435336"/>
+    <nd ref="872435338"/>
+    <nd ref="872435341"/>
+    <nd ref="872435344"/>
+    <nd ref="872435346"/>
+    <nd ref="872432678"/>
+    <nd ref="872435356"/>
+    <nd ref="2003417401"/>
+    <nd ref="872435362"/>
+    <nd ref="872435367"/>
+    <nd ref="872435370"/>
+    <nd ref="872431520"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="junction" v="roundabout"/>
+  </way>
+  <way id="75511771">
+    <nd ref="3626551429"/>
+    <nd ref="520408818"/>
+    <nd ref="891575606"/>
+    <nd ref="891575607"/>
+    <nd ref="891575608"/>
+    <nd ref="891575609"/>
+    <nd ref="891575610"/>
+    <nd ref="891575611"/>
+    <nd ref="891575612"/>
+    <nd ref="891575613"/>
+    <nd ref="891575614"/>
+    <nd ref="520408905"/>
+    <nd ref="891575621"/>
+    <nd ref="891575622"/>
+    <nd ref="891575625"/>
+    <nd ref="891575626"/>
+    <nd ref="891575627"/>
+    <nd ref="3626551428"/>
+    <nd ref="891575628"/>
+    <nd ref="891575629"/>
+    <nd ref="3626551429"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="name" v="דרך הרכבת"/>
+    <tag k="name:en" v="HaRakevet Way"/>
+    <tag k="name:he" v="דרך הרכבת"/>
+  </way>
+  <way id="96879452">
+    <nd ref="1788368848"/>
+    <nd ref="2003344870"/>
+    <nd ref="3625492864"/>
+    <nd ref="3625492882"/>
+    <nd ref="3625521197"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="שדרות מנחם בגין"/>
+    <tag k="name:ar" v="مناحيم بيغن"/>
+    <tag k="name:en" v="Menahem Begin Avenue"/>
+    <tag k="name:en1" v="Sderot Menahem Begin"/>
+    <tag k="name:en2" v="Menahem Begin"/>
+    <tag k="name:en3" v="Menahem Begin Blvd."/>
+    <tag k="name:en4" v="Sderot Menachem Begin"/>
+    <tag k="name:en5" v="Begin Avenue"/>
+    <tag k="name:he" v="שדרות מנחם בגין"/>
+    <tag k="name:he1" v="מנחם בגין"/>
+    <tag k="name:he2" v="בגין"/>
+    <tag k="name:he3" v="שדרות בגין"/>
+    <tag k="name:ru" v="Менахема Бегина"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="97558183">
+    <nd ref="1788369207"/>
+    <nd ref="1788372577"/>
+    <nd ref="1788372561"/>
+    <nd ref="2003344924"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk" v="left"/>
+  </way>
+  <way id="100596596">
+    <nd ref="1163013351"/>
+    <nd ref="3110227193"/>
+    <nd ref="3492881208"/>
+    <nd ref="1275846516"/>
+    <nd ref="1275846518"/>
+    <tag k="highway" v="secondary_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="100596604">
+    <nd ref="2026357788"/>
+    <nd ref="2008877947"/>
+    <nd ref="2026357800"/>
+    <nd ref="3540287894"/>
+    <nd ref="2026357780"/>
+    <nd ref="2026357798"/>
+    <nd ref="2026357807"/>
+    <nd ref="2026357817"/>
+    <tag k="highway" v="tertiary_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="100596659">
+    <nd ref="891575628"/>
+    <nd ref="3864874024"/>
+    <nd ref="4228816923"/>
+    <nd ref="3864874025"/>
+    <nd ref="1163013255"/>
+    <nd ref="3864874023"/>
+    <nd ref="1163013719"/>
+    <nd ref="2045080536"/>
+    <nd ref="1163013197"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="דרך הרכבת"/>
+    <tag k="name:en" v="HaRakevet Way"/>
+    <tag k="name:he" v="דרך הרכבת"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="bing, gps"/>
+  </way>
+  <way id="100629854">
+    <nd ref="2008877895"/>
+    <nd ref="2008877673"/>
+    <nd ref="2008877821"/>
+    <nd ref="2008877942"/>
+    <nd ref="2008919606"/>
+    <nd ref="3531422058"/>
+    <nd ref="2026357788"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="שדרות הפרחים"/>
+    <tag k="name:en" v="HaPrahim Avenue"/>
+    <tag k="name:en1" v="Sderot Ha'Perachim"/>
+    <tag k="name:en2" v="Sderot HaPrahim"/>
+    <tag k="name:he" v="שדרות הפרחים"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="100632802">
+    <nd ref="872435344"/>
+    <nd ref="2003417178"/>
+    <nd ref="2003417195"/>
+    <nd ref="2003417184"/>
+    <nd ref="3516141528"/>
+    <nd ref="2561131181"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="מפקורה"/>
+    <tag k="name:en" v="Mafkura"/>
+    <tag k="name:he" v="מפקורה"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="101976171">
+    <nd ref="3625492846"/>
+    <nd ref="3625492870"/>
+    <nd ref="3625492871"/>
+    <nd ref="3913565754"/>
+    <nd ref="2003324915"/>
+    <nd ref="2001869845"/>
+    <nd ref="3663770496"/>
+    <nd ref="2001869829"/>
+    <nd ref="2001869826"/>
+    <nd ref="872330203"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="שדרות מנחם בגין"/>
+    <tag k="name:ar" v="مناحيم بيغن"/>
+    <tag k="name:en" v="Menahem Begin Avenue"/>
+    <tag k="name:en1" v="Sderot Menahem Begin"/>
+    <tag k="name:en2" v="Menahem Begin"/>
+    <tag k="name:en3" v="Menahem Begin Blvd."/>
+    <tag k="name:en4" v="Sderot Menachem Begin"/>
+    <tag k="name:en5" v="Begin Avenue"/>
+    <tag k="name:he" v="שדרות מנחם בגין"/>
+    <tag k="name:he1" v="מנחם בגין"/>
+    <tag k="name:he2" v="בגין"/>
+    <tag k="name:he3" v="שדרות בגין"/>
+    <tag k="name:ru" v="Менахема Бегина"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="112173121">
+    <nd ref="822100352"/>
+    <nd ref="1275837192"/>
+    <nd ref="1275837194"/>
+    <nd ref="822100250"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="ראש פינה"/>
+    <tag k="name:en" v="Rosh Pina"/>
+    <tag k="name:he" v="ראש פינה"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="167441615">
+    <nd ref="1163048335"/>
+    <nd ref="1163048360"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="שדרות הרצל"/>
+    <tag k="name:en" v="Herzl Avenue"/>
+    <tag k="name:en1" v="Sderot Harzl"/>
+    <tag k="name:en2" v="Herzl"/>
+    <tag k="name:en3" v="Hertsel Ave"/>
+    <tag k="name:en4" v="Sderot Herzl"/>
+    <tag k="name:en5" v="Hertzel Ave"/>
+    <tag k="name:he" v="שדרות הרצל"/>
+    <tag k="name:he1" v="הרצל"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="167441858">
+    <nd ref="1788372583"/>
+    <nd ref="1788372571"/>
+    <nd ref="1788372548"/>
+    <nd ref="1788372552"/>
+    <nd ref="1788369207"/>
+    <tag k="highway" v="tertiary_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="167441859">
+    <nd ref="3625521197"/>
+    <nd ref="3625492883"/>
+    <nd ref="3625492862"/>
+    <nd ref="1788372563"/>
+    <nd ref="1788372526"/>
+    <nd ref="1788372568"/>
+    <nd ref="1788372508"/>
+    <nd ref="1788372527"/>
+    <nd ref="1788372531"/>
+    <nd ref="1788372545"/>
+    <nd ref="1788372500"/>
+    <nd ref="1788372516"/>
+    <nd ref="1808848262"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="הגדוד העברי"/>
+    <tag k="name:en" v="HaGdud HaIvri"/>
+    <tag k="name:en1" v="Ha'Gdud Ha'Ivri"/>
+    <tag k="name:he" v="הגדוד העברי"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="189745406">
+    <nd ref="302775163"/>
+    <nd ref="2003417320"/>
+    <nd ref="2003417169"/>
+    <nd ref="2003417521"/>
+    <nd ref="2003417253"/>
+    <nd ref="2003417542"/>
+    <nd ref="3548566795"/>
+    <nd ref="2003417201"/>
+    <nd ref="2003417716"/>
+    <nd ref="2003417454"/>
+    <nd ref="2003417291"/>
+    <nd ref="2003417272"/>
+    <nd ref="2003417213"/>
+    <nd ref="2003417709"/>
+    <nd ref="2003417306"/>
+    <nd ref="2003417299"/>
+    <nd ref="2003417515"/>
+    <nd ref="2003417661"/>
+    <nd ref="2003417638"/>
+    <nd ref="2003417329"/>
+    <nd ref="2003417728"/>
+    <nd ref="872435336"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="אקסודוס"/>
+    <tag k="name:en" v="Exodus"/>
+    <tag k="name:he" v="אקסודוס"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="189745421">
+    <nd ref="872435311"/>
+    <nd ref="2003417648"/>
+    <nd ref="2003417399"/>
+    <nd ref="2003417501"/>
+    <nd ref="2003417202"/>
+    <nd ref="2008240043"/>
+    <nd ref="2003417397"/>
+    <nd ref="2003417486"/>
+    <nd ref="2003417579"/>
+    <nd ref="3894097348"/>
+    <nd ref="2003417357"/>
+    <nd ref="2003417571"/>
+    <nd ref="2008240063"/>
+    <nd ref="3894097327"/>
+    <nd ref="2008240060"/>
+    <nd ref="3893232939"/>
+    <nd ref="2008240064"/>
+    <nd ref="3893232934"/>
+    <nd ref="2003417288"/>
+    <nd ref="2003417438"/>
+    <nd ref="302775164"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="אקסודוס"/>
+    <tag k="name:en" v="Exodus"/>
+    <tag k="name:he" v="אקסודוס"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="190288700">
+    <nd ref="2008877826"/>
+    <nd ref="2008877599"/>
+    <nd ref="2008877839"/>
+    <nd ref="3531422052"/>
+    <nd ref="2008877713"/>
+    <nd ref="2008877583"/>
+    <nd ref="2008877776"/>
+    <nd ref="2008877784"/>
+    <nd ref="3531422053"/>
+    <nd ref="2008877800"/>
+    <nd ref="2008877603"/>
+    <nd ref="2008877768"/>
+    <nd ref="2008877770"/>
+    <nd ref="3531422054"/>
+    <nd ref="2008877895"/>
+    <nd ref="2008877951"/>
+    <nd ref="2008877903"/>
+    <nd ref="2008877638"/>
+    <nd ref="2008877823"/>
+    <nd ref="3531422055"/>
+    <nd ref="2008877862"/>
+    <nd ref="2008877958"/>
+    <nd ref="2008877826"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="junction" v="roundabout"/>
+  </way>
+  <way id="192080284">
+    <nd ref="2008877862"/>
+    <nd ref="2008877636"/>
+    <nd ref="2008877963"/>
+    <nd ref="4198480144"/>
+    <nd ref="4198480141"/>
+    <nd ref="1168881869"/>
+    <nd ref="1344538664"/>
+    <nd ref="1168881871"/>
+    <nd ref="817936195"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="הכלנית"/>
+    <tag k="name:ar" v="كالانيت"/>
+    <tag k="name:en" v="HaKalanit"/>
+    <tag k="name:en1" v="HaCalanit"/>
+    <tag k="name:en2" v="Ha'Calanit"/>
+    <tag k="name:en3" v="Ha'Kalanit"/>
+    <tag k="name:he" v="הכלנית"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="192080289">
+    <nd ref="2026381303"/>
+    <nd ref="2026381258"/>
+    <nd ref="2026381318"/>
+    <nd ref="2026381360"/>
+    <nd ref="2026381343"/>
+    <nd ref="2026381320"/>
+    <nd ref="2026381304"/>
+    <tag k="highway" v="secondary_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="193987042">
+    <nd ref="891575621"/>
+    <nd ref="2045080110"/>
+    <nd ref="2045079763"/>
+    <nd ref="4228816921"/>
+    <nd ref="2045080421"/>
+    <nd ref="2045080032"/>
+    <nd ref="2045080255"/>
+    <nd ref="2045079980"/>
+    <nd ref="2045080494"/>
+    <nd ref="2045080315"/>
+    <nd ref="2045079878"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="דרך הרכבת"/>
+    <tag k="name:en" v="HaRakevet Way"/>
+    <tag k="name:he" v="דרך הרכבת"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="193987049">
+    <nd ref="2045080431"/>
+    <nd ref="2045079786"/>
+    <nd ref="2045080212"/>
+    <nd ref="2045079991"/>
+    <nd ref="2045079743"/>
+    <nd ref="2045080019"/>
+    <nd ref="2045079810"/>
+    <nd ref="2045080186"/>
+    <nd ref="4228816922"/>
+    <nd ref="2045079794"/>
+    <nd ref="891575626"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="דרך הרכבת"/>
+    <tag k="name:en" v="HaRakevet Way"/>
+    <tag k="name:he" v="דרך הרכבת"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="193987052">
+    <nd ref="2045080203"/>
+    <nd ref="2045080530"/>
+    <nd ref="4228816918"/>
+    <nd ref="2045080358"/>
+    <nd ref="2045080427"/>
+    <nd ref="2045080605"/>
+    <nd ref="2045080021"/>
+    <nd ref="2045080587"/>
+    <nd ref="2045079981"/>
+    <nd ref="2045079757"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="דרך הרכבת"/>
+    <tag k="name:en" v="HaRakevet Way"/>
+    <tag k="name:he" v="דרך הרכבת"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="193987057">
+    <nd ref="2045080385"/>
+    <nd ref="2045080574"/>
+    <nd ref="3780174057"/>
+    <nd ref="2045080142"/>
+    <nd ref="3561849202"/>
+    <nd ref="2045079729"/>
+    <nd ref="2045080563"/>
+    <nd ref="2045079957"/>
+    <nd ref="2045080549"/>
+    <nd ref="2045079707"/>
+    <nd ref="2045080087"/>
+    <nd ref="2045080546"/>
+    <nd ref="2045079727"/>
+    <nd ref="2045080448"/>
+    <nd ref="2045080218"/>
+    <tag k="access" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="193987065">
+    <nd ref="2045080340"/>
+    <nd ref="2045079783"/>
+    <nd ref="2045080437"/>
+    <nd ref="3626551432"/>
+    <nd ref="2045080416"/>
+    <nd ref="2045080007"/>
+    <nd ref="3626551430"/>
+    <nd ref="2045080378"/>
+    <nd ref="2045080259"/>
+    <nd ref="2045080431"/>
+    <nd ref="2045079944"/>
+    <nd ref="2045080290"/>
+    <nd ref="2045080227"/>
+    <nd ref="2045080313"/>
+    <nd ref="3626551431"/>
+    <nd ref="2045079878"/>
+    <nd ref="2045080050"/>
+    <nd ref="2045080238"/>
+    <nd ref="2045080278"/>
+    <nd ref="2045080088"/>
+    <nd ref="2045080203"/>
+    <nd ref="2045080340"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="junction" v="roundabout"/>
+  </way>
+  <way id="193987076">
+    <nd ref="2045080276"/>
+    <nd ref="2045080532"/>
+    <nd ref="2045080320"/>
+    <nd ref="2045079740"/>
+    <nd ref="2045080343"/>
+    <nd ref="2045080125"/>
+    <nd ref="2045080251"/>
+    <nd ref="4228816919"/>
+    <nd ref="2045079893"/>
+    <nd ref="2045079735"/>
+    <nd ref="2045080416"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="דרך הרכבת"/>
+    <tag k="name:en" v="HaRakevet Way"/>
+    <tag k="name:he" v="דרך הרכבת"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="193987078">
+    <nd ref="2045080165"/>
+    <nd ref="2045080457"/>
+    <nd ref="2045079963"/>
+    <nd ref="2045080145"/>
+    <nd ref="2045080067"/>
+    <nd ref="2045079971"/>
+    <nd ref="2045079908"/>
+    <nd ref="2045080218"/>
+    <tag k="highway" v="service"/>
+    <tag k="lanes" v="2"/>
+  </way>
+  <way id="193987090">
+    <nd ref="2045080070"/>
+    <nd ref="2045079955"/>
+    <nd ref="2045080388"/>
+    <nd ref="2045080471"/>
+    <nd ref="2045080346"/>
+    <nd ref="3800579359"/>
+    <nd ref="2045080270"/>
+    <nd ref="3800579368"/>
+    <nd ref="2045080385"/>
+    <nd ref="2045079951"/>
+    <nd ref="2045080261"/>
+    <nd ref="3626551433"/>
+    <nd ref="2045080165"/>
+    <nd ref="4323956301"/>
+    <nd ref="2045079721"/>
+    <nd ref="4323956302"/>
+    <nd ref="2045079917"/>
+    <nd ref="4323956303"/>
+    <nd ref="2045080276"/>
+    <nd ref="2045079989"/>
+    <nd ref="2045079751"/>
+    <nd ref="2045080474"/>
+    <nd ref="2045079979"/>
+    <nd ref="3626551434"/>
+    <nd ref="2045079757"/>
+    <nd ref="2045079941"/>
+    <nd ref="2045080070"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lanes" v="2"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="238029684">
+    <nd ref="1167192311"/>
+    <nd ref="3555071907"/>
+    <nd ref="817936207"/>
+    <nd ref="1275837219"/>
+    <nd ref="1275837230"/>
+    <nd ref="817929598"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="הרב יוסף משאש"/>
+    <tag k="name:en" v="HaRav Yosef Mashash"/>
+    <tag k="name:he" v="הרב יוסף משאש"/>
+    <tag k="note" v="fixme"/>
+  </way>
+  <way id="238919874">
+    <nd ref="1788343656"/>
+    <nd ref="1788369204"/>
+    <nd ref="4392436079"/>
+    <nd ref="302774796"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="שדרות מנחם בגין"/>
+    <tag k="name:ar" v="مناحيم بيغن"/>
+    <tag k="name:en" v="Menahem Begin Avenue"/>
+    <tag k="name:en1" v="Sderot Menahem Begin"/>
+    <tag k="name:en2" v="Menahem Begin"/>
+    <tag k="name:en3" v="Menahem Begin Blvd."/>
+    <tag k="name:en4" v="Sderot Menachem Begin"/>
+    <tag k="name:en5" v="Begin Avenue"/>
+    <tag k="name:he" v="שדרות מנחם בגין"/>
+    <tag k="name:he1" v="מנחם בגין"/>
+    <tag k="name:he2" v="בגין"/>
+    <tag k="name:he3" v="שדרות בגין"/>
+    <tag k="name:ru" v="Менахема Бегина"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="239036681">
+    <nd ref="1163048360"/>
+    <nd ref="1788369300"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="שדרות מנחם בגין"/>
+    <tag k="name:ar" v="مناحيم بيغن"/>
+    <tag k="name:en" v="Menahem Begin Avenue"/>
+    <tag k="name:en1" v="Sderot Menahem Begin"/>
+    <tag k="name:en2" v="Menahem Begin"/>
+    <tag k="name:en3" v="Menahem Begin Blvd."/>
+    <tag k="name:en4" v="Sderot Menachem Begin"/>
+    <tag k="name:en5" v="Begin Avenue"/>
+    <tag k="name:he" v="שדרות מנחם בגין"/>
+    <tag k="name:he1" v="מנחם בגין"/>
+    <tag k="name:he2" v="בגין"/>
+    <tag k="name:he3" v="שדרות בגין"/>
+    <tag k="name:ru" v="Менахема Бегина"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="239036683">
+    <nd ref="1788368967"/>
+    <nd ref="1788369056"/>
+    <nd ref="1788368875"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="שדרות הרצל"/>
+    <tag k="name:en" v="Herzl Avenue"/>
+    <tag k="name:en1" v="Sderot Harzl"/>
+    <tag k="name:en2" v="Herzl"/>
+    <tag k="name:en3" v="Hertsel Ave"/>
+    <tag k="name:en4" v="Sderot Herzl"/>
+    <tag k="name:en5" v="Hertzel Ave"/>
+    <tag k="name:he" v="שדרות הרצל"/>
+    <tag k="name:he1" v="הרצל"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="239036685">
+    <nd ref="1788343680"/>
+    <nd ref="1788343666"/>
+    <nd ref="1343612730"/>
+    <nd ref="1122536150"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="שדרות מנחם בגין"/>
+    <tag k="name:ar" v="مناحيم بيغن"/>
+    <tag k="name:en" v="Menahem Begin Avenue"/>
+    <tag k="name:en1" v="Sderot Menahem Begin"/>
+    <tag k="name:en2" v="Menahem Begin"/>
+    <tag k="name:en3" v="Menahem Begin Blvd."/>
+    <tag k="name:en4" v="Sderot Menachem Begin"/>
+    <tag k="name:en5" v="Begin Avenue"/>
+    <tag k="name:he" v="שדרות מנחם בגין"/>
+    <tag k="name:he1" v="מנחם בגין"/>
+    <tag k="name:he2" v="בגין"/>
+    <tag k="name:he3" v="שדרות בגין"/>
+    <tag k="name:ru" v="Менахема Бегина"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="239558405">
+    <nd ref="3664253051"/>
+    <nd ref="3542718044"/>
+    <nd ref="1788372580"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="הגדוד העברי"/>
+    <tag k="name:en" v="HaGdud HaIvri"/>
+    <tag k="name:en1" v="Ha'Gdud Ha'Ivri"/>
+    <tag k="name:he" v="הגדוד העברי"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="244893721">
+    <nd ref="1122536158"/>
+    <nd ref="388793531"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="שדרות המייסדים"/>
+    <tag k="name:en" v="Sderot HaMeyasdim"/>
+    <tag k="name:he" v="שדרות המייסדים"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="244893724">
+    <nd ref="1122536150"/>
+    <nd ref="1163013421"/>
+    <nd ref="1343612715"/>
+    <nd ref="3516002333"/>
+    <nd ref="3516002330"/>
+    <nd ref="2008877633"/>
+    <nd ref="1163013290"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="70"/>
+    <tag k="name" v="שדרות מנחם בגין"/>
+    <tag k="name:ar" v="مناحيم بيغن"/>
+    <tag k="name:en" v="Menahem Begin Avenue"/>
+    <tag k="name:en1" v="Sderot Menahem Begin"/>
+    <tag k="name:en2" v="Menahem Begin"/>
+    <tag k="name:en3" v="Menahem Begin Blvd."/>
+    <tag k="name:en4" v="Sderot Menachem Begin"/>
+    <tag k="name:en5" v="Begin Avenue"/>
+    <tag k="name:he" v="שדרות מנחם בגין"/>
+    <tag k="name:he1" v="מנחם בגין"/>
+    <tag k="name:he2" v="בגין"/>
+    <tag k="name:he3" v="שדרות בגין"/>
+    <tag k="name:ru" v="Менахема Бегина"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="244893725">
+    <nd ref="1163013460"/>
+    <nd ref="302774795"/>
+    <nd ref="1788343661"/>
+    <nd ref="1788343689"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="שדרות מנחם בגין"/>
+    <tag k="name:ar" v="مناحيم بيغن"/>
+    <tag k="name:en" v="Menahem Begin Avenue"/>
+    <tag k="name:en1" v="Sderot Menahem Begin"/>
+    <tag k="name:en2" v="Menahem Begin"/>
+    <tag k="name:en3" v="Menahem Begin Blvd."/>
+    <tag k="name:en4" v="Sderot Menachem Begin"/>
+    <tag k="name:en5" v="Begin Avenue"/>
+    <tag k="name:he" v="שדרות מנחם בגין"/>
+    <tag k="name:he1" v="מנחם בגין"/>
+    <tag k="name:he2" v="בגין"/>
+    <tag k="name:he3" v="שדרות בגין"/>
+    <tag k="name:ru" v="Менахема Бегина"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="244893727">
+    <nd ref="1163013290"/>
+    <nd ref="1122536158"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="שדרות מנחם בגין"/>
+    <tag k="name:ar" v="مناحيم بيغن"/>
+    <tag k="name:en" v="Menahem Begin Avenue"/>
+    <tag k="name:en1" v="Sderot Menahem Begin"/>
+    <tag k="name:en2" v="Menahem Begin"/>
+    <tag k="name:en3" v="Menahem Begin Blvd."/>
+    <tag k="name:en4" v="Sderot Menachem Begin"/>
+    <tag k="name:en5" v="Begin Avenue"/>
+    <tag k="name:he" v="שדרות מנחם בגין"/>
+    <tag k="name:he1" v="מנחם בגין"/>
+    <tag k="name:he2" v="בגין"/>
+    <tag k="name:he3" v="שדרות בגין"/>
+    <tag k="name:ru" v="Менахема Бегина"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="245490546">
+    <nd ref="2026381268"/>
+    <nd ref="4059697492"/>
+    <nd ref="817936194"/>
+    <nd ref="1163318375"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="הכלנית"/>
+    <tag k="name:ar" v="كالانيت"/>
+    <tag k="name:en" v="HaKalanit"/>
+    <tag k="name:en1" v="HaCalanit"/>
+    <tag k="name:en2" v="Ha'Calanit"/>
+    <tag k="name:en3" v="Ha'Kalanit"/>
+    <tag k="name:he" v="הכלנית"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="245490569">
+    <nd ref="817936195"/>
+    <nd ref="2026381268"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="הכלנית"/>
+    <tag k="name:ar" v="كالانيت"/>
+    <tag k="name:en" v="HaKalanit"/>
+    <tag k="name:en1" v="HaCalanit"/>
+    <tag k="name:en2" v="Ha'Calanit"/>
+    <tag k="name:en3" v="Ha'Kalanit"/>
+    <tag k="name:he" v="הכלנית"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="245490572">
+    <nd ref="4059697494"/>
+    <nd ref="2550391602"/>
+    <nd ref="1163318388"/>
+    <nd ref="4059697496"/>
+    <nd ref="1168881880"/>
+    <nd ref="4228583053"/>
+    <nd ref="4228583054"/>
+    <nd ref="1168881855"/>
+    <nd ref="2008877763"/>
+    <nd ref="2008877587"/>
+    <nd ref="2008877839"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="הכלנית"/>
+    <tag k="name:ar" v="كالانيت"/>
+    <tag k="name:en" v="HaKalanit"/>
+    <tag k="name:en1" v="HaCalanit"/>
+    <tag k="name:en2" v="Ha'Calanit"/>
+    <tag k="name:en3" v="Ha'Kalanit"/>
+    <tag k="name:he" v="הכלנית"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="245490577">
+    <nd ref="302774796"/>
+    <nd ref="1163048335"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="שדרות מנחם בגין"/>
+    <tag k="name:ar" v="مناحيم بيغن"/>
+    <tag k="name:en" v="Menahem Begin Avenue"/>
+    <tag k="name:en1" v="Sderot Menahem Begin"/>
+    <tag k="name:en2" v="Menahem Begin"/>
+    <tag k="name:en3" v="Menahem Begin Blvd."/>
+    <tag k="name:en4" v="Sderot Menachem Begin"/>
+    <tag k="name:en5" v="Begin Avenue"/>
+    <tag k="name:he" v="שדרות מנחם בגין"/>
+    <tag k="name:he1" v="מנחם בגין"/>
+    <tag k="name:he2" v="בגין"/>
+    <tag k="name:he3" v="שדרות בגין"/>
+    <tag k="name:ru" v="Менахема Бегина"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="245490578">
+    <nd ref="1163318375"/>
+    <nd ref="4059697491"/>
+    <nd ref="3391902590"/>
+    <nd ref="4059697490"/>
+    <nd ref="2026381295"/>
+    <nd ref="2026381322"/>
+    <nd ref="3536888933"/>
+    <nd ref="2026381315"/>
+    <nd ref="2026381336"/>
+    <nd ref="822100246"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="שדרות אלטלנה"/>
+    <tag k="name:en" v="Sderot Altalena"/>
+    <tag k="name:he" v="שדרות אלטלנה"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="246495046">
+    <nd ref="2026381304"/>
+    <nd ref="4059697494"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="הכלנית"/>
+    <tag k="name:ar" v="كالانيت"/>
+    <tag k="name:en" v="HaKalanit"/>
+    <tag k="name:en1" v="HaCalanit"/>
+    <tag k="name:en2" v="Ha'Calanit"/>
+    <tag k="name:en3" v="Ha'Kalanit"/>
+    <tag k="name:he" v="הכלנית"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="247241096">
+    <nd ref="1788368875"/>
+    <nd ref="1788369284"/>
+    <nd ref="1788369333"/>
+    <nd ref="1788369174"/>
+    <nd ref="1788369107"/>
+    <nd ref="1788369059"/>
+    <nd ref="1163048335"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="שדרות הרצל"/>
+    <tag k="name:en" v="Herzl Avenue"/>
+    <tag k="name:en1" v="Sderot Harzl"/>
+    <tag k="name:en2" v="Herzl"/>
+    <tag k="name:en3" v="Hertsel Ave"/>
+    <tag k="name:en4" v="Sderot Herzl"/>
+    <tag k="name:en5" v="Hertzel Ave"/>
+    <tag k="name:he" v="שדרות הרצל"/>
+    <tag k="name:he1" v="הרצל"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="247241105">
+    <nd ref="1163013197"/>
+    <nd ref="4228816926"/>
+    <nd ref="1163013338"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="דרך הרכבת"/>
+    <tag k="name:en" v="HaRakevet Way"/>
+    <tag k="name:he" v="דרך הרכבת"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="bing, gps"/>
+  </way>
+  <way id="248663428">
+    <nd ref="1163013359"/>
+    <nd ref="410603523"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="249522122">
+    <nd ref="1122536144"/>
+    <nd ref="4069222988"/>
+    <nd ref="3110214761"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="70"/>
+    <tag k="name" v="שדרות מנחם בגין"/>
+    <tag k="name:ar" v="مناحيم بيغن"/>
+    <tag k="name:en" v="Menahem Begin Avenue"/>
+    <tag k="name:en1" v="Sderot Menahem Begin"/>
+    <tag k="name:en2" v="Menahem Begin"/>
+    <tag k="name:en3" v="Menahem Begin Blvd."/>
+    <tag k="name:en4" v="Sderot Menachem Begin"/>
+    <tag k="name:en5" v="Begin Avenue"/>
+    <tag k="name:he" v="שדרות מנחם בגין"/>
+    <tag k="name:he1" v="מנחם בגין"/>
+    <tag k="name:he2" v="בגין"/>
+    <tag k="name:he3" v="שדרות בגין"/>
+    <tag k="name:ru" v="Менахема Бегина"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="249522123">
+    <nd ref="817936205"/>
+    <nd ref="1275842399"/>
+    <nd ref="1167192178"/>
+    <nd ref="1275842333"/>
+    <nd ref="1167192198"/>
+    <nd ref="1275842346"/>
+    <nd ref="817936206"/>
+    <nd ref="3555071908"/>
+    <nd ref="1167192311"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="ראשון לציון"/>
+    <tag k="name:en" v="Rishon Le'Tsion"/>
+    <tag k="name:he" v="ראשון לציון"/>
+    <tag k="note" v="fixme"/>
+  </way>
+  <way id="249522126">
+    <nd ref="1275846510"/>
+    <nd ref="817936205"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="ראשון לציון"/>
+    <tag k="name:en" v="Rishon Le'Tsion"/>
+    <tag k="name:he" v="ראשון לציון"/>
+    <tag k="note" v="fixme"/>
+  </way>
+  <way id="249522130">
+    <nd ref="1275846518"/>
+    <nd ref="1275846510"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="המשנה"/>
+    <tag k="name:en" v="HaMishna"/>
+    <tag k="name:he" v="המשנה"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="249522131">
+    <nd ref="2561131182"/>
+    <nd ref="2003417738"/>
+    <nd ref="2003417684"/>
+    <nd ref="2003417401"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="מפקורה"/>
+    <tag k="name:en" v="Mafkura"/>
+    <tag k="name:he" v="מפקורה"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="249522132">
+    <nd ref="2026357817"/>
+    <nd ref="1788343665"/>
+    <nd ref="1163013450"/>
+    <nd ref="1163013460"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="70"/>
+    <tag k="name" v="שדרות מנחם בגין"/>
+    <tag k="name:ar" v="مناحيم بيغن"/>
+    <tag k="name:en" v="Menahem Begin Avenue"/>
+    <tag k="name:en1" v="Sderot Menahem Begin"/>
+    <tag k="name:en2" v="Menahem Begin"/>
+    <tag k="name:en3" v="Menahem Begin Blvd."/>
+    <tag k="name:en4" v="Sderot Menachem Begin"/>
+    <tag k="name:en5" v="Begin Avenue"/>
+    <tag k="name:he" v="שדרות מנחם בגין"/>
+    <tag k="name:he1" v="מנחם בגין"/>
+    <tag k="name:he2" v="בגין"/>
+    <tag k="name:he3" v="שדרות בגין"/>
+    <tag k="name:ru" v="Менахема Бегина"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="306176326">
+    <nd ref="3110214761"/>
+    <nd ref="3815288919"/>
+    <nd ref="3110214762"/>
+    <nd ref="4228816929"/>
+    <nd ref="4228816928"/>
+    <nd ref="3815288918"/>
+    <nd ref="3110214792"/>
+    <nd ref="3110214789"/>
+    <tag k="highway" v="secondary_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="306177753">
+    <nd ref="1163013338"/>
+    <nd ref="1163013359"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="שדרות משה סנה"/>
+    <tag k="name:en" v="Moshe Sne Avenue"/>
+    <tag k="name:en1" v="Sderot Moshe Sne"/>
+    <tag k="name:he" v="שדרות משה סנה"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="bing, gps"/>
+  </way>
+  <way id="306177756">
+    <nd ref="3110214789"/>
+    <nd ref="817929560"/>
+    <nd ref="3864874026"/>
+    <nd ref="4228816924"/>
+    <nd ref="3864874028"/>
+    <nd ref="3864874027"/>
+    <nd ref="891575606"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="דרך הרכבת"/>
+    <tag k="name:en" v="HaRakevet Way"/>
+    <tag k="name:he" v="דרך הרכבת"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="bing, gps"/>
+  </way>
+  <way id="337407347">
+    <nd ref="1163048335"/>
+    <nd ref="4392436082"/>
+    <nd ref="1788368848"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="שדרות מנחם בגין"/>
+    <tag k="name:ar" v="مناحيم بيغن"/>
+    <tag k="name:en" v="Menahem Begin Avenue"/>
+    <tag k="name:en1" v="Sderot Menahem Begin"/>
+    <tag k="name:en2" v="Menahem Begin"/>
+    <tag k="name:en3" v="Menahem Begin Blvd."/>
+    <tag k="name:en4" v="Sderot Menachem Begin"/>
+    <tag k="name:en5" v="Begin Avenue"/>
+    <tag k="name:he" v="שדרות מנחם בגין"/>
+    <tag k="name:he1" v="מנחם בגין"/>
+    <tag k="name:he2" v="בגין"/>
+    <tag k="name:he3" v="שדרות בגין"/>
+    <tag k="name:ru" v="Менахема Бегина"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="348041560">
+    <nd ref="1808848262"/>
+    <nd ref="2003344927"/>
+    <nd ref="1788372562"/>
+    <nd ref="1788372536"/>
+    <nd ref="2003344893"/>
+    <nd ref="3664253051"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="הגדוד העברי"/>
+    <tag k="name:en" v="HaGdud HaIvri"/>
+    <tag k="name:en1" v="Ha'Gdud Ha'Ivri"/>
+    <tag k="name:he" v="הגדוד העברי"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="348041561">
+    <nd ref="2003344924"/>
+    <nd ref="3663898634"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk" v="left"/>
+  </way>
+  <way id="348041565">
+    <nd ref="1788372580"/>
+    <nd ref="2003344920"/>
+    <nd ref="1788372583"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="הגדוד העברי"/>
+    <tag k="name:en" v="HaGdud HaIvri"/>
+    <tag k="name:en1" v="Ha'Gdud Ha'Ivri"/>
+    <tag k="name:he" v="הגדוד העברי"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="357227477">
+    <nd ref="2003365399"/>
+    <nd ref="3625521198"/>
+    <nd ref="3625492859"/>
+    <nd ref="3625492890"/>
+    <nd ref="3625492849"/>
+    <nd ref="3625521200"/>
+    <nd ref="3625492861"/>
+    <nd ref="3625492848"/>
+    <nd ref="3625492847"/>
+    <nd ref="3625521196"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="שדרות מנחם בגין"/>
+    <tag k="name:ar" v="مناحيم بيغن"/>
+    <tag k="name:en" v="Menahem Begin Avenue"/>
+    <tag k="name:en1" v="Sderot Menahem Begin"/>
+    <tag k="name:en2" v="Menahem Begin"/>
+    <tag k="name:en3" v="Menahem Begin Blvd."/>
+    <tag k="name:en4" v="Sderot Menachem Begin"/>
+    <tag k="name:en5" v="Begin Avenue"/>
+    <tag k="name:he" v="שדרות מנחם בגין"/>
+    <tag k="name:he1" v="מנחם בגין"/>
+    <tag k="name:he2" v="בגין"/>
+    <tag k="name:he3" v="שדרות בגין"/>
+    <tag k="name:ru" v="Менахема Бегина"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="415867991">
+    <nd ref="3663898634"/>
+    <nd ref="1788372572"/>
+    <nd ref="1788372506"/>
+    <nd ref="3542718029"/>
+    <nd ref="3542718030"/>
+    <nd ref="1788372564"/>
+    <nd ref="1788372559"/>
+    <nd ref="3542718031"/>
+    <nd ref="1788372578"/>
+    <nd ref="3542718032"/>
+    <nd ref="1788372575"/>
+    <nd ref="2003344940"/>
+    <tag k="access" v="no"/>
+    <tag k="bus" v="designated"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk" v="left"/>
+  </way>
+  <way id="415867995">
+    <nd ref="2003344940"/>
+    <nd ref="1788372584"/>
+    <nd ref="1788372579"/>
+    <nd ref="1788372566"/>
+    <nd ref="1788372550"/>
+    <nd ref="1788368967"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk" v="left"/>
+  </way>
+  <way id="441768386">
+    <nd ref="1788369300"/>
+    <nd ref="4392436077"/>
+    <nd ref="1788343668"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="שדרות מנחם בגין"/>
+    <tag k="name:ar" v="مناحيم بيغن"/>
+    <tag k="name:en" v="Menahem Begin Avenue"/>
+    <tag k="name:en1" v="Sderot Menahem Begin"/>
+    <tag k="name:en2" v="Menahem Begin"/>
+    <tag k="name:en3" v="Menahem Begin Blvd."/>
+    <tag k="name:en4" v="Sderot Menachem Begin"/>
+    <tag k="name:en5" v="Begin Avenue"/>
+    <tag k="name:he" v="שדרות מנחם בגין"/>
+    <tag k="name:he1" v="מנחם בגין"/>
+    <tag k="name:he2" v="בגין"/>
+    <tag k="name:he3" v="שדרות בגין"/>
+    <tag k="name:ru" v="Менахема Бегина"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <relation id="3355624">
+    <member type="node" ref="1803093664" role="stop"/>
+    <member type="way" ref="193987057" role="backward"/>
+    <member type="way" ref="193987052" role="backward"/>
+    <member type="way" ref="193987042" role="backward"/>
+    <member type="way" ref="306177756" role="backward"/>
+    <member type="way" ref="193987078" role="forward"/>
+    <member type="way" ref="193987076" role="forward"/>
+    <member type="way" ref="193987049" role="forward"/>
+    <member type="way" ref="100596659" role="forward"/>
+    <member type="way" ref="193987090" role=""/>
+    <member type="way" ref="193987065" role=""/>
+    <member type="way" ref="75511771" role=""/>
+    <member type="way" ref="247241105" role="forward"/>
+    <member type="way" ref="306177753" role="forward"/>
+    <member type="way" ref="248663428" role="forward"/>
+    <member type="node" ref="1803086679" role="forward:stop"/>
+    <member type="node" ref="1803086678" role="backward:stop"/>
+    <member type="way" ref="41981947" role="forward"/>
+    <member type="way" ref="100596596" role="forward"/>
+    <member type="way" ref="249522130" role="forward"/>
+    <member type="way" ref="249522126" role="forward"/>
+    <member type="way" ref="67741020" role="backward"/>
+    <member type="way" ref="249522122" role="backward"/>
+    <member type="node" ref="1803087648" role="forward:stop"/>
+    <member type="node" ref="1803087650" role="backward:stop"/>
+    <member type="way" ref="249522123" role=""/>
+    <member type="node" ref="1803081932" role="forward:stop"/>
+    <member type="node" ref="1803087646" role="backward:stop"/>
+    <member type="way" ref="238029684" role=""/>
+    <member type="way" ref="67740438" role=""/>
+    <member type="way" ref="67740437" role=""/>
+    <member type="way" ref="112173121" role="forward"/>
+    <member type="way" ref="28313089" role="forward"/>
+    <member type="way" ref="192080289" role="backward"/>
+    <member type="way" ref="246495046" role="forward"/>
+    <member type="way" ref="245490572" role="forward"/>
+    <member type="way" ref="192080284" role="backward"/>
+    <member type="way" ref="245490569" role="backward"/>
+    <member type="way" ref="245490546" role="backward"/>
+    <member type="way" ref="245490578" role="backward"/>
+    <member type="way" ref="38319322" role="backward"/>
+    <member type="node" ref="1803032019" role="backward:stop"/>
+    <member type="node" ref="1803062288" role="forward:stop"/>
+    <member type="node" ref="1803023603" role="backward:stop"/>
+    <member type="node" ref="1803023528" role="forward:stop"/>
+    <member type="node" ref="1803023581" role="backward:stop"/>
+    <member type="node" ref="1803023586" role="forward:stop"/>
+    <member type="way" ref="249522132" role="forward"/>
+    <member type="way" ref="100596604" role="forward"/>
+    <member type="way" ref="100629854" role="forward"/>
+    <member type="way" ref="190288700" role=""/>
+    <member type="way" ref="244893724" role="backward"/>
+    <member type="way" ref="244893727" role="backward"/>
+    <member type="way" ref="244893721" role="backward"/>
+    <member type="way" ref="67740433" role="backward"/>
+    <member type="node" ref="1802992634" role="forward:stop"/>
+    <member type="node" ref="1803055579" role="backward:stop"/>
+    <member type="node" ref="1803055585" role="forward:stop"/>
+    <member type="way" ref="244893725" role="forward"/>
+    <member type="way" ref="68276506" role="forward"/>
+    <member type="way" ref="68276507" role="backward"/>
+    <member type="way" ref="239036685" role="backward"/>
+    <member type="node" ref="1803030867" role="backward:stop"/>
+    <member type="way" ref="41986914" role=""/>
+    <member type="node" ref="1803030868" role="forward:stop"/>
+    <member type="way" ref="68276508" role="forward"/>
+    <member type="way" ref="238919874" role="forward"/>
+    <member type="way" ref="245490577" role="forward"/>
+    <member type="way" ref="337407347" role="forward"/>
+    <member type="node" ref="1803093277" role="forward:stop"/>
+    <member type="way" ref="68276510" role="backward"/>
+    <member type="way" ref="441768386" role="backward"/>
+    <member type="way" ref="239036681" role="backward"/>
+    <member type="way" ref="247241096" role="backward"/>
+    <member type="way" ref="167441615" role="backward"/>
+    <member type="way" ref="239036683" role="backward"/>
+    <member type="way" ref="415867995" role="backward"/>
+    <member type="way" ref="415867991" role="backward"/>
+    <member type="way" ref="348041561" role="backward"/>
+    <member type="way" ref="97558183" role="backward"/>
+    <member type="node" ref="1803093501" role="backward:stop"/>
+    <member type="way" ref="167441858" role="backward"/>
+    <member type="way" ref="348041565" role="backward"/>
+    <member type="way" ref="239558405" role="backward"/>
+    <member type="way" ref="348041560" role="backward"/>
+    <member type="way" ref="96879452" role="forward"/>
+    <member type="way" ref="167441859" role="backward"/>
+    <member type="way" ref="27575944" role=""/>
+    <member type="way" ref="101976171" role="forward"/>
+    <member type="way" ref="189745406" role="forward"/>
+    <member type="way" ref="189745421" role="backward"/>
+    <member type="node" ref="1803047642" role="backward:stop"/>
+    <member type="node" ref="1802991699" role="forward:stop"/>
+    <member type="node" ref="1802991698" role="backward:stop"/>
+    <member type="way" ref="73611885" role=""/>
+    <member type="way" ref="249522131" role="backward"/>
+    <member type="way" ref="100632802" role="forward"/>
+    <member type="node" ref="1803037156" role="stop"/>
+    <member type="way" ref="306176326" role="backward"/>
+    <member type="way" ref="357227477" role=""/>
+    <tag k="name" v="Ashdod Bus Route 66"/>
+    <tag k="network" v="High-Frequency Buses"/>
+    <tag k="operator" v="אגד תעבורה"/>
+    <tag k="ref" v="66"/>
+    <tag k="route" v="bus"/>
+    <tag k="type" v="route"/>
+  </relation>
+
+</osm>
